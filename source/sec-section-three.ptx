@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<section xml:id="sec-section-Three" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Graphical work</title>
+  <table>
+    <title>The table below shows attendance in one week in a class of 40 learners</title>
+    <tabular halign="center"  top="medium" left="medium" bottom="medium" right="medium">
+      <row header="yes" bottom="medium">
+        <cell halign="left">Day</cell>
+        <cell>Monday</cell>
+        <cell>Tuesday</cell>
+        <cell>Wednesday</cell>
+        <cell>Thursday</cell>
+        <cell>Friday</cell>
+      </row>
+      <row>
+        <cell halign="left">Number of learners</cell>
+        <cell>38</cell>
+        <cell>40</cell>
+        <cell>36</cell>
+        <cell>40</cell>
+        <cell>34</cell>
+      </row>
+    </tabular>
+  </table>
+  <question>
+    <statement>
+      <p>
+        Choose a suitable scale that you can use to represent the data in a graph.
+      </p>
+    </statement>
+    <hint>
+      <p>
+        <ol>
+          <li>
+            <p>
+              When drawing any graph ,ensuer that you unnderstand the x-axis and y-axis apropriatly.
+            </p>
+            <p>
+              Use <em>x-axis to be</em> day and <em>y-Axis to be</em> Number of learners
+            </p>
+          </li>
+        </ol>
+      </p>
+    </hint>
+    <solution>
+      <p>
+        The graph looks this way:
+      </p>
+      <image source="./Bar-graph2.png" width="50%">
+        <shortdescription>The requred solution</shortdescription>
+      </image>
+    </solution>
+  </question>
+ 
+
+  
+
+
+
+  
+</section> 

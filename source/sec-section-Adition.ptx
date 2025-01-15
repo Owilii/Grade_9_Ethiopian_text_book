@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Addition and subtraction</title>
+  <exercise>
+    <statement>
+      <p>
+         Find the sum of the following two numbers.
+     </p>
+     <p>
+       <m>3+4=</m>
+     </p>
+
+    </statement>
+   <hint>
+     <p>
+      
+        <m>3+1=4</m>
+      </p>
+      <p>
+        <m>4+6=10</m>
+      </p>
+      <p>
+        <m>5+3=8</m>
+    
+     </p>
+    </hint>
+    <solution>
+      <p>
+        <me>
+          3+4=7
+        </me>
+        <men xml:id="eqn5-solution"> 7
+          
+        </men>
+        Solution is <xref ref="eqn5-solution"/>
+        
+      </p>
+      
+    </solution>
+  </exercise>
+   <p>
+      Another paragraph.<m>7+5=12</m> <em>However</em>,This is false: <m>7+2=1</m>
+    </p>
+  
+    <activity>
+        <statement>
+          <p>
+            Find the area of a triangle.whose <em>length</em><m>=5</m> and <em>width</em> <m>=10</m>
+            
+          </p>
+        </statement>
+        <hint>
+        <p>
+          Area of a rectangle is given by <m>l\times w</m>
+        </p>
+        <p>
+          suppose given <em>length</em> <m>=4</m> and <em>width</em>  <m>=4</m>
+        </p>
+        <p>
+          <em>Area</em>  <m>=4\times4=16</m>
+        </p>
+      </hint>
+    
+      <solution>
+        <p>
+          <em>AREA</em> <m>=5\times10=50</m>
+        </p>
+      </solution>
+    
+    </activity>
+    <example>
+      <statement>
+        <p>
+          Work out the  square root of <m>2\frac{41}{64}</m>
+        </p>
+      </statement>
+      <solution>
+        <p>
+          <ol>
+            <li>
+              <p>
+                The  square root of  <m>2\frac{41}{64}</m> is <m>\sqrt{\frac{169}{64}}</m>
+              </p>
+              <p>
+                <md>
+                  <mrow> \sqrt{\frac{169}{64}}=\amp \sqrt{\frac{(13\times13)}
+                  {(2\times2)\times(2\times2)\times(2\times2)}}</mrow>
+                  <mrow> =\amp \frac{13}{2\times2\times2}</mrow>
+                  <mrow> =\amp \frac{13}{8}</mrow>
+                  <mrow> =\amp \frac{5}{8} </mrow>
+                </md>
+                <men xml:id="eqn-solution"> \sqrt{\frac{169}{64}}=1\frac{5}{8} 
+                  
+                </men>
+                Our solution is in <xref ref="eqn-solution"/>
+              </p>
+            </li>
+          </ol>
+        </p>
+      </solution>
+    </example>
+    <p>
+      Represent the following inequality on a number line.
+      
+    </p>
+    <p>
+      <me>
+        x>5
+      </me>
+      
+    </p>
+    <image>
+      <shortdescription>Manu united</shortdescription>
+      <latex-image>
+        \begin{tikzpicture}
+          \draw [very thick, &lt;-&gt;] (-4,0) -- (11,0);
+          \foreach \x in {-4,...,11}{
+            \draw (\x,.25) --(\x,-.25) node[below]{\x};
+          }
+          \draw [-&gt;,black!70!green] (5,.1) -- (10.5, 0);
+          \draw [fill=white!70!green] (5,.1) circle (5pt);
+        \end{tikzpicture}
+      </latex-image>
+    </image>
+
+    <p>
+      Represent the following inequality on a numbefr line.
+      
+    </p>
+    <p>
+      <me>x\geq5</me>
+      
+    </p>
+    <image>
+      <shortdescription>Manu united</shortdescription>
+      <latex-image>
+        \begin{tikzpicture}
+          \draw [very thick, &lt;-] (-4,0) -- (10,0);
+          \foreach \x in {-4,...,10}{
+            \draw (\x,.25) --(\x,-.25) node[below]{\x};
+          }
+          \draw [->,black!70!green] (5,.1) -- (10.5, 0);
+          \draw [fill=black!70!green] (5,.1) circle (5pt);
+        \end{tikzpicture}
+      </latex-image>
+    </image>
+    
+  
+
+
+
+
+
+</section> 

@@ -1,0 +1,59 @@
+INFO    : Using PreTeXt-CLI version 2.10.0.  The latest stable version available is 2.11.4. Run `pip install pretext --upgrade` to update.
+
+INFO    : PreTeXt project found in `/home/innodems-intern2/Documents/project-for-grade-seven`.
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Building target web
+INFO    : converting latex-image pictures from /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx to svg graphics for placement in /home/innodems-intern2/Documents/project-for-grade-seven/generated-assets/latex-image
+INFO    : extracting latex-image pictures from /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx
+INFO    : string parameters passed to extraction stylesheet: {'debug.html.annotate': 'yes', 'publisher': '/home/innodems-intern2/Documents/project-for-grade-seven/publication/publication.ptx', 'subtree': 'subsec-Area-of-a-parallelogram'}
+INFO    : discovering source file's directory name: /home/innodems-intern2/Documents/project-for-grade-seven/source
+INFO    : verifying and expanding input directory: /home/innodems-intern2/Documents/project-for-grade-seven/source/../generated-assets
+INFO    : input directory expanded to absolute path: /home/innodems-intern2/Documents/project-for-grade-seven/generated-assets
+INFO    : verifying and expanding input directory: /home/innodems-intern2/Documents/project-for-grade-seven/source/../assets
+INFO    : input directory expanded to absolute path: /home/innodems-intern2/Documents/project-for-grade-seven/assets
+INFO    : XSL conversion of /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx by /home/innodems-intern2/.ptx/2.10.0/core/xsl/extract-latex-image.xsl
+INFO    : successful application of /home/innodems-intern2/.ptx/2.10.0/core/xsl/extract-latex-image.xsl
+INFO    : converting subsec-Area-of-a-parallelogram-5.tex to subsec-Area-of-a-parallelogram-5.pdf
+ERROR   : LaTeX compilation of subsec-Area-of-a-parallelogram-5.tex failed.
+Re-run, requesting "source" as the format, to analyze the image.
+Likely creating the entire document as PDF will fail similarly.
+The transcript of the LaTeX run follows.
+ERROR   : Unable to generate some latex-image assets:
+ LaTeX compilation failed for 1 "latex-image"(s).
+Review the log for error messages, and LaTeX transcripts.
+Images are:
+  subsec-Area-of-a-parallelogram-5.tex
+INFO    : Removing temporary directory /tmp/ptx-dtisfvjt
+INFO    : Preparing to build into /home/innodems-intern2/Documents/project-for-grade-seven/output/web.
+INFO    : XSL conversion of /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx by /home/innodems-intern2/.ptx/2.10.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : successful application of /home/innodems-intern2/.ptx/2.10.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : discovering source file's directory name: /home/innodems-intern2/Documents/project-for-grade-seven/source
+INFO    : verifying and expanding input directory: /home/innodems-intern2/Documents/project-for-grade-seven/source/../generated-assets
+INFO    : input directory expanded to absolute path: /home/innodems-intern2/Documents/project-for-grade-seven/generated-assets
+INFO    : verifying and expanding input directory: /home/innodems-intern2/Documents/project-for-grade-seven/source/../assets
+INFO    : input directory expanded to absolute path: /home/innodems-intern2/Documents/project-for-grade-seven/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.4.4
+INFO    : Runestone Services (using newer, via online CDN query): version 7.5.1
+INFO    : Downloading Runestone Services, version 7.5.1
+INFO    : Extracting Runestone Services from archive file
+INFO    : converting /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx to HTML in /tmp/ptx-1y5yrl1m
+INFO    : XSL conversion of /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx by /home/innodems-intern2/.ptx/2.10.0/core/xsl/pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+WARNING : * PTX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+INFO    : *              located within: "sec-section-Length" (xml:id), "Length" (title)
+WARNING : * PTX:DEPRECATE: (2016-07-31) @width attribute on <image> must be expressed as a percentage (1 time)
+INFO    : *              located within: "sec-section-Pythagorean-relationship" (xml:id), "Pythagorean relationship" (title)
+INFO    : * --------------
+INFO    : successful application of /home/innodems-intern2/.ptx/2.10.0/core/xsl/pretext-html.xsl
+INFO    : Removing temporary directory /tmp/ptx-9zc8bt2r
+INFO    : Removing temporary directory /tmp/ptx-1y5yrl1m
+INFO    : 
+Success! Run `pretext view` to see the results.
+
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------

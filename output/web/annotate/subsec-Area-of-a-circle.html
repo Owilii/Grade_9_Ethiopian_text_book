@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html><body><pre>&lt;subsection xml:id="subsec-Area-of-a-circle"&gt;
+  &lt;title&gt;Area of a circle&lt;/title&gt;
+  &lt;p&gt;
+    Learning point.
+  &lt;/p&gt;
+  &lt;image width="40%"&gt;
+  &lt;latex-image&gt;
+    \begin{tikzpicture}
+      \draw[very thick,fill=white](0,0) circle(5);
+      \draw[thick,fill=black](0,0) -- (5,0);
+      \node [very thick]at (2.5,0.5){$r$};
+      \node at (0,0){.};
+    \end{tikzpicture}
+  &lt;/latex-image&gt;
+    
+  &lt;/image&gt;
+  &lt;p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;
+          The area of a circle &lt;me&gt;= \pi r \times r&lt;/me&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;me&gt;=\pi r^2&lt;/me&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+          where:
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;m&gt;r&lt;/m&gt; is the radius of the circle and &lt;m&gt;\pi=\frac{22}{7} \text{or} 3.142 &lt;/m&gt;.
+        &lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+  &lt;activity&gt;
+    &lt;statement&gt;
+      &lt;p&gt;
+        Find the area of the circle below.
+      &lt;/p&gt;
+      &lt;image width="40%"&gt;
+      &lt;latex-image&gt;
+        \begin{tikzpicture}
+          \draw[very thick,fill=green](0,0) circle(5);
+          \draw[thick,fill=black](0,0) -- (5,0);
+          \node [very thick]at (1,0.5){$14cm$};
+          \node at (0,0){.};
+        \end{tikzpicture}
+      &lt;/latex-image&gt;
+        
+      &lt;/image&gt;
+    &lt;/statement&gt;
+    &lt;solution&gt;
+      &lt;p&gt;
+        &lt;md&gt;
+          &lt;mrow&gt; \text{Area of a circle}=\amp \pi r^2 &lt;/mrow&gt;
+          &lt;mrow&gt; =\amp\frac{22}{7} \times r \times r &lt;/mrow&gt;
+          &lt;mrow&gt; =\amp \frac{22}{7} \times 14 \times 14 cm^2 &lt;/mrow&gt;
+          &lt;mrow&gt; =\amp \frac{22}{7} \times 196 cm^2&lt;/mrow&gt;
+          &lt;mrow&gt; =\amp 616 cm^2&lt;/mrow&gt;
+        &lt;/md&gt;
+      &lt;/p&gt;
+    &lt;/solution&gt;
+  &lt;/activity&gt;
+  &lt;example&gt;
+    &lt;statement&gt;
+      &lt;p&gt;
+        Calculate the area of a circle whose diameter is &lt;m&gt;10 cm&lt;/m&gt; 
+        &lt;m&gt;(\text{take} \pi=3.142)&lt;/m&gt;
+      &lt;/p&gt;
+    &lt;/statement&gt;
+    &lt;solution&gt;
+      &lt;p&gt;
+        &lt;md&gt;
+          &lt;mrow&gt;\text{radius} =\amp \frac{\text{diameter}}{2}&lt;/mrow&gt;
+          &lt;mrow&gt; r= \amp \frac{10cm}{2}&lt;/mrow&gt;
+          &lt;mrow&gt; = \amp 5cm&lt;/mrow&gt;
+        &lt;/md&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+        Therefore,
+      &lt;/p&gt;
+      &lt;p&gt;
+        &lt;md&gt;
+          &lt;mrow&gt; \text{Area of a circle}=\amp 3.142 \times r \times r &lt;/mrow&gt;
+          &lt;mrow&gt; =\amp 3.142 \times5cm \times 5cm &lt;/mrow&gt;
+          &lt;mrow&gt; =\amp 78.5cm^2&lt;/mrow&gt;
+        &lt;/md&gt;
+      &lt;/p&gt;
+    &lt;/solution&gt;
+  &lt;/example&gt;
+  &lt;activity&gt;
+    &lt;statement&gt;
+      &lt;p&gt;
+        Fill in the table bellow. &lt;m&gt;(\text{Take} \pi = \frac{22}{7})&lt;/m&gt;
+      &lt;/p&gt;
+      &lt;tabular halign="center" top="medium" left="medium" bottom="medium" right="medium"&gt;
+        &lt;row header="yes" bottom="medium"&gt;
+          &lt;cell&gt;Circle&lt;/cell&gt;
+          &lt;cell&gt;Diameter&lt;/cell&gt;
+          &lt;cell&gt;Radius&lt;/cell&gt;
+          &lt;cell&gt;Area&lt;/cell&gt;
+          
+        &lt;/row&gt;
+        &lt;row&gt;
+          &lt;cell&gt;a)&lt;/cell&gt;
+          &lt;cell /&gt;
+          &lt;cell&gt;49cm&lt;/cell&gt;
+          &lt;cell /&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+          &lt;cell&gt;b)&lt;/cell&gt;
+          &lt;cell&gt;7cm&lt;/cell&gt;
+          &lt;cell /&gt;
+          &lt;cell /&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+          &lt;cell&gt;c)&lt;/cell&gt;
+          &lt;cell&gt;21cm&lt;/cell&gt;
+          &lt;cell /&gt;
+          &lt;cell /&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+          &lt;cell&gt;d)&lt;/cell&gt;
+          &lt;cell /&gt;
+          &lt;cell&gt;35cm&lt;/cell&gt;
+          &lt;cell /&gt;
+        &lt;/row&gt;
+      &lt;/tabular&gt;
+    &lt;/statement&gt;
+    &lt;solution&gt;
+      &lt;p&gt;
+        The solution is as below:
+      &lt;/p&gt;
+      &lt;tabular halign="center" top="medium" left="medium" bottom="medium" right="medium"&gt;
+          &lt;row header="yes" bottom="medium"&gt;
+            &lt;cell&gt;Circle&lt;/cell&gt;
+            &lt;cell&gt;Diameter&lt;/cell&gt;
+            &lt;cell&gt;Radius&lt;/cell&gt;
+            &lt;cell&gt;Area&lt;/cell&gt;
+            
+          &lt;/row&gt;
+          &lt;row&gt;
+            &lt;cell&gt;a)&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;49 \times 2=98cm &lt;/m&gt;&lt;/cell&gt;
+            &lt;cell&gt;49cm&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;\frac{22}{7} \times 49^2cm^2=7546cm^2&lt;/m&gt;&lt;/cell&gt;
+          &lt;/row&gt;
+          &lt;row&gt;
+            &lt;cell&gt;b)&lt;/cell&gt;
+            &lt;cell&gt;7cm&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;\frac{7}{2}=3.5cm&lt;/m&gt;&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;\frac{22}{7} \times 3.5^2cm^2=39.28cm^2&lt;/m&gt;&lt;/cell&gt;
+          &lt;/row&gt;
+          &lt;row&gt;
+            &lt;cell&gt;c)&lt;/cell&gt;
+            &lt;cell&gt;21cm&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;\frac{21}{2}=10.5cm&lt;/m&gt;&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;\frac{22}{7} \times 10.5^2cm^2=3465cm^2&lt;/m&gt;&lt;/cell&gt;
+          &lt;/row&gt;
+          &lt;row&gt;
+            &lt;cell&gt;d)&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;35 \times 2=70cm&lt;/m&gt;&lt;/cell&gt;
+            &lt;cell&gt;35cm&lt;/cell&gt;
+            &lt;cell&gt;&lt;m&gt;\frac{22}{7} \times 35^2cm^2=3850cm^2&lt;/m&gt;&lt;/cell&gt;
+          &lt;/row&gt;
+       &lt;/tabular&gt;
+      
+    &lt;/solution&gt;
+  &lt;/activity&gt;
+
+
+  
+&lt;/subsection&gt;
+</pre></body></html>

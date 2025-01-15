@@ -1,0 +1,24 @@
+INFO    : Using PreTeXt-CLI version: 2.10.0.  This is the latest available version.
+
+INFO    : PreTeXt project found in `/home/innodems-intern2/Documents/project-for-grade-seven`.
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Building target web
+INFO    : Preparing to build into /home/innodems-intern2/Documents/project-for-grade-seven/output/web.
+INFO    : XSL conversion of /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx by /home/innodems-intern2/.ptx/2.10.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : successful application of /home/innodems-intern2/.ptx/2.10.0/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : discovering source file's directory name: /home/innodems-intern2/Documents/project-for-grade-seven/source
+INFO    : verifying and expanding input directory: /home/innodems-intern2/Documents/project-for-grade-seven/source/../generated-assets
+INFO    : input directory expanded to absolute path: /home/innodems-intern2/Documents/project-for-grade-seven/generated-assets
+INFO    : verifying and expanding input directory: /home/innodems-intern2/Documents/project-for-grade-seven/source/../assets
+INFO    : input directory expanded to absolute path: /home/innodems-intern2/Documents/project-for-grade-seven/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.4.4
+INFO    : converting /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx to HTML in /tmp/ptx-rd9p3qnu
+INFO    : XSL conversion of /home/innodems-intern2/Documents/project-for-grade-seven/source/main.ptx by /home/innodems-intern2/.ptx/2.10.0/core/xsl/pretext-html.xsl
+INFO    : successful application of /home/innodems-intern2/.ptx/2.10.0/core/xsl/pretext-html.xsl
+INFO    : Removing temporary directory /tmp/ptx-ndudsq0i
+INFO    : Removing temporary directory /tmp/ptx-rd9p3qnu
+INFO    : 
+Success! Run `pretext view` to see the results.
+
+INFO    : 
