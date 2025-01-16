@@ -6,6 +6,7 @@
       &lt;p&gt;
         We need paper cut-outs and a ruler.
       &lt;/p&gt;
+      &lt;p&gt;
       &lt;ol&gt;
         &lt;li&gt;
           &lt;p&gt;
@@ -28,6 +29,7 @@
           &lt;/p&gt;
         &lt;/li&gt;
       &lt;/ol&gt;
+      &lt;/p&gt;
       &lt;p&gt;
         Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.
       &lt;/p&gt;
@@ -45,19 +47,23 @@
                 &lt;shortdescription /&gt;
                 &lt;latex-image&gt;
                   \begin{tikzpicture}
-                    \draw[thin](-0.5,2.5) --(0.5,2.5);
-                    \draw[thin](2.5,-0.5) --(2.5,0.5);
-                    \draw[thin](4.5,2.5) --(5.5,2.5);
-                    \draw[thin](2.5,4.5) --(2.5,5.5);
+                    \draw[thick,fill=black](-0.5,2.5) --(0.5,2.5);
+                    \draw[thick,fill=black](2.5,-0.5) --(2.5,0.5);
+                    \draw[thick,fill=black](4.5,2.5) --(5.5,2.5);
+                    \draw[thick,fill=black](2.5,4.5) --(2.5,5.5);.
+                    \draw[thick,fill=black](0.5,0) --(0.5,0.5);
+                    \draw[thick,fill=black](0,0.5) --(0.5,0.5);
+                    \draw[thick,fill=black](0.5,4.5) --(0.5,5);
+                    \draw[thick,fill=black](0,4.5) --(0.5,4.5);
                     \node at(-1,2.5){10cm};
-                    \draw[thick,fill=blue](0,0) --(0,5) --(5,5) --(5,0) --(0,0);
+                    \draw[thick,fill=white](0,0) --(0,5) --(5,5) --(5,0) --(0,0);
                   \end{tikzpicture}
                 &lt;/latex-image&gt;
               &lt;/image&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;image&gt;
-            &lt;latex-image width="60%"&gt;
+            &lt;image width="80%"&gt;
+            &lt;latex-image&gt;
               \begin{tikzpicture}
                 \draw[thick,fill=pink](0,0) --(0,3)--(5,3)--(5,0) --(0,0);
                 \node at (-1,1.5){8cm};
@@ -67,30 +73,107 @@
                 
             &lt;/image&gt;
           &lt;/li&gt;
-          
         &lt;/ol&gt;
       &lt;/p&gt;
     &lt;/statement&gt;
+    &lt;solution&gt;
+      &lt;p&gt;
+        &lt;ol cols="2" marker="a)"&gt;
+          &lt;li&gt;
+            &lt;p&gt; Perimeter of a square.
+              &lt;md&gt;
+                &lt;mrow&gt;=\amp l+l+l+l &lt;/mrow&gt;
+                &lt;mrow&gt;=\amp 4l&lt;/mrow&gt;
+                &lt;mrow&gt;=\amp 4 \times 10cm &lt;/mrow&gt;
+                &lt;mrow&gt;=\amp  \textbf {40cm} &lt;/mrow&gt;
+              &lt;/md&gt;
+            &lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+              &lt;p&gt; Perimeter of a rectangle.
+              &lt;md&gt;
+                &lt;mrow&gt;=\amp l+w+l+w &lt;/mrow&gt;
+                &lt;mrow&gt;=\amp 2 \times (l + w) &lt;/mrow&gt;
+                &lt;mrow&gt;=\amp 2 \times (40cm +8cm) &lt;/mrow&gt;
+                &lt;mrow&gt;=\amp 2 \times 48cm &lt;/mrow&gt;
+                &lt;mrow&gt;=\amp  \textbf {96cm} &lt;/mrow&gt;
+
+              &lt;/md&gt;
+            &lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/p&gt;
+    &lt;/solution&gt;
   &lt;/example&gt;
   &lt;example&gt;
     &lt;statement&gt;
       &lt;p&gt;
-        Work out the perimeter of the figure alongside.
-    &lt;image width="30%"&gt;
+        Work out the perimeter of the figure alongside&lt;/p&gt;
+    &lt;image width="70%"&gt;
     &lt;latex-image&gt;
       \begin{tikzpicture}
-        \draw[thick,fill=white](0,0) --(0,4) --(3.75,4) --(7.5,7) --(11.25,4) --(12,4) --(15,4) --(15,0) --(0,0);
-        \draw[thin](-0.5,2) --(0.5,2);
-        \draw[thin](14.5,2) --(15.5,2);
-        \draw[thin](4.5,5) --(9,5.5);
-        \draw[thin](4.5,5.5) --(9,5);
-        \draw[thin](14.5,2) --(15.5,2);
+        \draw[thick,fill=white](1,0) --(1,4) --(3.75,4) --(7.5,7) --(11.25,4) --(12,4) --(14,4) --(14,0) --(1,0);
+        \draw[thin](0.5,2) --(1.5,2);
+        \draw[thin](13.5,2) --(14.5,2);
+        \draw[thin](4.7,5.7) --(5.7,5.2);
+        \draw[thin](4.5,5.5) --(5.5,5);
+        \draw[thin](10.3,5.5) --(9.3,5);
+        \draw[thin](10.5,5.3) --(9.5,4.8);
+        \draw[thin](13.5,2) --(14.5,2);
         \draw[dashed,fill=black](3.75,4) --(11.25,4);
+        \node at(0.5,2.2){4cm};
+        \node at(7,0.5){15cm};
+        \node at(14.5,2.5){4cm};
+        \node at(12,4.2){3cm};
+        \node at(2,4.2){3cm};
+        \node at(9.5,5.9){7cm};
       \end{tikzpicture}
     &lt;/latex-image&gt;
     &lt;/image&gt;
-      &lt;/p&gt;
     &lt;/statement&gt;
+    &lt;solution&gt;
+      &lt;p&gt;
+        We add all the sides to get the perimeter.
+        &lt;md&gt;
+          &lt;mrow&gt;\text{perimeter}=\amp4\text {cm} + 3 \text {cm} + 7\text {cm }+ 7\text {cm} + 3\text {cm} + 4\text {cm} + 15\text {cm}&lt;/mrow&gt;
+          &lt;mrow&gt;=\amp \textbf {43cm} &lt;/mrow&gt;
+        &lt;/md&gt;
+      &lt;/p&gt;
+    &lt;/solution&gt;
   &lt;/example&gt;
+  &lt;exploration&gt;
+    &lt;p&gt;Extended activity&lt;/p&gt;
+      &lt;sidebyside&gt;
+      &lt;p&gt;
+        Johnluck made a paper cut out of right-angled triangle like the one shown on the right.
+        He then made three similar cut outs then joined them as shown below to form a combined
+         cut-out. work out the perimeter  of the combined cut
+      &lt;/p&gt;
+      &lt;image&gt;
+      &lt;latex-image&gt;
+        \begin{tikzpicture}
+          \draw [thick,fill=yellow](3,0) --(0,3) --(4,0.3) --(3,0);
+        \end{tikzpicture}
+      &lt;/latex-image&gt;
+      &lt;/image&gt;
+        
+      &lt;/sidebyside&gt;
+      &lt;image width="60%"&gt;
+      &lt;latex-image&gt;
+        \begin{tikzpicture}
+          \draw [thick,fill=yellow](3,0) --(0,3) --(4,0.3) --(3,0);
+          \draw [thick,fill=yellow](3,0) --(6,0) --(6,1) --(3,0);
+          \draw [thick,fill=yellow](6,1) --(9,1) --(6,0);
+          \draw [thick,fill=yellow](8,1) --(9,1) --(9,4) --(8,1);
+          \node at(1.5,1){15cm};
+          \node at(4,-0.5){15cm};
+          \node at(7.5,0.5){17cm};
+          \node at(9.5,2){15cm};
+          \node at(8,3){17cm};
+          \node at(2.5,1.5){17cm};
+        \end{tikzpicture}
+      &lt;/latex-image&gt;
+      &lt;/image&gt;
+  &lt;/exploration&gt;
 &lt;/subsection&gt;
 </pre></body></html>
