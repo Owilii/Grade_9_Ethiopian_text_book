@@ -23,11 +23,11 @@
         </p>
       </li>
       <li>
-        <p>
-          <image source="/Rightangle-triangle.png" width="50%">
-            <shortdescription>The ubove description for about 2000 years</shortdescription>
-          </image>
-        </p>
+        
+        <image source="/Rightangle-triangle.png" width="50%">
+          <shortdescription>The ubove description for about 2000 years</shortdescription>
+         </image>
+        
       </li>
     </ul>
   </p>
@@ -101,7 +101,7 @@
     </statement>
     <solution>
       <p>
-        Here is the correct solution
+        Here is the correct Learning point.
       </p>
       <sidebyside>
         <image source="/Triangle-tree.png" width="100%">
@@ -169,7 +169,7 @@
     </ul>
   </p>
   <sidebyside>
-    <image source="/Sides-triangle.png" width="40">
+    <image source="/sides.png" width="40">
       <shortdescription>Sides</shortdescription>
     </image>
     <p>
@@ -178,7 +178,10 @@
           <p>
             From the fugure alongside, side a is the <m>base</m>,
             side b is the <m>height</m> and side c is the 
-            <m>hypotenuse</m>.Therfore the relationship is,
+            <m>hypotenuse</m>.Therfore the relationship is, <m>a^2+b^2=c^2</m>.
+          </p>
+          <p>
+            The relationship can be changed depending on the question asked  on the length to calculate as shown below.
           </p>
         </li>
         <li>
@@ -210,10 +213,17 @@
         <shortdescription>question</shortdescription>
       </image>
     </statement>
+    
     <solution>
       <p>
+        To find the length of any side of the right-angled triangle, we use the 
+        pythagorean relationship which state that: <m>c^2=a^2+b^2 </m>.
+      </p>
+      <p>
+        Therefore,
+      </p>
+      <p>
         <md>
-          <mrow> c^2=\amp a^2+b^2 </mrow>
           <mrow> y^2=\amp (8 cm)^2+ (6 cm)^2 </mrow>
           <mrow> y^2=\amp(8 cm \times 8 cm)+ (6cm \times 6 cm) </mrow>
           <mrow> y^2=\amp 64 cm^2 +36 cm^2 </mrow>

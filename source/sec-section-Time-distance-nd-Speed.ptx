@@ -22,7 +22,7 @@
         </li>
       </ul>
     </p>
-    <image source="/Time.png" width="50%">
+    <image source="./Time.png" width="50%">
       <shortdescription>Time</shortdescription>
     </image>
   </sidebyside>
