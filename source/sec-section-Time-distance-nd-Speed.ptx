@@ -2,11 +2,66 @@
 
 <section xml:id="sec-section-Time-Distance-and-speed" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Time,Distance and speed</title>
-  <exercise>
-    <statement>
-        <p>
-            
-        </p>
-    </statement>
-  </exercise>
+  <p>
+    Why time, distance and speed.
+  </p>
+  <sidebyside>
+    <p>
+      <ul>
+        <li>
+          <p>
+            We use time, distance and speed in our daily life.
+          </p>
+        </li>
+        <li>
+          <p>
+            Time helps us to plan our day-to-day activities.Knowing distance helps 
+            us to plan when emberking on a journey. Speed helps us to determine 
+            how long we would take to cover a certain distance.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <image source="/Time.png" width="50%">
+      <shortdescription>Time</shortdescription>
+    </image>
+  </sidebyside>
+  <subsection xml:id="subsec-Units-of-measuring-time">
+    <title>Units of measuring time</title>
+    <introduction>
+      <p>
+        Units of mesurering time are;
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Minutes
+            </p>
+          </li>
+          <li>
+            <p>
+              Hours
+            </p>
+          </li>
+          <li>
+            <p>
+              Seconds
+            </p>
+          </li>
+        </ol>
+      </p>
+    </introduction>
+    
+    
+    <subsubsection xml:id="subsubsec-Convertin-hours-to-minutes">
+      <title>Convertin hours to minutes</title>
+      <p>
+        <m>60</m> minutes <m>=</m> <m>1</m> hour.
+      </p>
+      
+    </subsubsection>
+
+    
+  </subsection>
 </section>

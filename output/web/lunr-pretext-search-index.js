@@ -736,16 +736,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "Time,Distance and speed",
-  "body": " Time,Distance and speed      "
-},
-{
-  "id": "sec-section-Time-Distance-and-speed-2",
-  "level": "2",
-  "url": "sec-section-Time-Distance-and-speed.html#sec-section-Time-Distance-and-speed-2",
-  "type": "Checkpoint",
-  "number": "4.5.1",
-  "title": "",
-  "body": "   "
+  "body": " Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time     Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   minutes  hour.    "
 },
 {
   "id": "sec-section-Temparature",
