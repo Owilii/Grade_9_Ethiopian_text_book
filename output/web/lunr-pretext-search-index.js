@@ -619,7 +619,115 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "Time,Distance and speed",
-  "body": " Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time     Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   minutes  hour.    "
+  "body": " Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time    Note:    time      Time is measured in seconds, minuites and hours.  Therefore, , and are the units of measurering time.        What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is       Moraa recorded the time she spent during a morning run exercise.   Exe2   For how long did he run?    Moraa ran for .     Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   hour  minutes.   Work in pairs.      Whate you need.  razer blade,manniler paper(white and yellow), black maker pen,a wire and a pair of campus.   Make a clock face like the one shown alongside using a paper cut out.  Move the minute hand clockwise to make a complete turn.  How many minutes does the minuite hand cover in one complete turn?  Observe how the hour hand moves when the minute hand make one complete turn. What have you noticed?  Share your findings with other learners in class.     Clock    Learning point.  From the above activity you should notice that;   hour  minutes.     Convert hours    Conversion of hours to minutes, we use the conversion units that is .       Therefore,         How many minuites are the in hours?          Therefore,         A motorist took to travel from Kilifi to Machakos. How many minutes did he take during the travel?    Hours he took was   To convert the hours taken to minuites, use   Therefore,     The minutes taken for the travel is       Converting minutes into hours  As discused before that . it's clear to see also that .   Work in groups.     Grade 7 learners recorded the time they spent doing various activities during their leisure time.    Name  Activity  Time taken in minutes  Time taken in hours    Moraa  Running  120     Akinyi  Playing football  90     Ekadeli  Reading story books  60      Why should we engage in positive leisure activity?  Fill in the table to show the time spent by each learner in hours.  Share your work with other learners in class.       A bus took to travel from Kisumu to Nairobi. What time did it take in hours and minutes?    The bus took   Note that,          9 hours    60  560      -540     20 mins     The bus took to travel from Kisumu to Nairobi.      Converting minutes into seconds  The statment for conversion states that,   .       Using a stopwatch or a rist watch or a clock watch, observe and record the number of seconds in the following minutes.    Minutes  Seconds    1 minute     3 minutes     5 minutes     10 minutes      How many seconds are there in a minutes?  Share your findings with other learners in class.         a) .Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).         Converting second into minutes.  Converting seconds into minutes depend on the previus sub topic.  Notice that,        Using a stopwatch or a rist watch or a clock watch, observe and record the number of minutes in the following seconds.    Seconds  Minutes    60 seconds     120 seconds     180 seconds     240 seconds     300 seconds      Share your work with other learners in class.        A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took       "
+},
+{
+  "id": "sec-section-Time-Distance-and-speed-6",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#sec-section-Time-Distance-and-speed-6",
+  "type": "Example",
+  "number": "4.5.1",
+  "title": "",
+  "body": "  What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is    "
+},
+{
+  "id": "sec-section-Time-Distance-and-speed-7",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#sec-section-Time-Distance-and-speed-7",
+  "type": "Example",
+  "number": "4.5.2",
+  "title": "",
+  "body": "  Moraa recorded the time she spent during a morning run exercise.   Exe2   For how long did he run?    Moraa ran for .   "
+},
+{
+  "id": "subsubsec-Convertin-hours-to-minutes-3",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Convertin-hours-to-minutes-3",
+  "type": "Activity",
+  "number": "4.5.1",
+  "title": "",
+  "body": " Work in pairs.      Whate you need.  razer blade,manniler paper(white and yellow), black maker pen,a wire and a pair of campus.   Make a clock face like the one shown alongside using a paper cut out.  Move the minute hand clockwise to make a complete turn.  How many minutes does the minuite hand cover in one complete turn?  Observe how the hour hand moves when the minute hand make one complete turn. What have you noticed?  Share your findings with other learners in class.     Clock    Learning point.  From the above activity you should notice that;   hour  minutes.  "
+},
+{
+  "id": "subsubsec-Convertin-hours-to-minutes-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Convertin-hours-to-minutes-4",
+  "type": "Example",
+  "number": "4.5.3",
+  "title": "",
+  "body": "  Convert hours    Conversion of hours to minutes, we use the conversion units that is .       Therefore,      "
+},
+{
+  "id": "subsubsec-Convertin-hours-to-minutes-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Convertin-hours-to-minutes-5",
+  "type": "Example",
+  "number": "4.5.4",
+  "title": "",
+  "body": "  How many minuites are the in hours?          Therefore,      "
+},
+{
+  "id": "subsubsec-Convertin-hours-to-minutes-6",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Convertin-hours-to-minutes-6",
+  "type": "Example",
+  "number": "4.5.5",
+  "title": "",
+  "body": "  A motorist took to travel from Kilifi to Machakos. How many minutes did he take during the travel?    Hours he took was   To convert the hours taken to minuites, use   Therefore,     The minutes taken for the travel is    "
+},
+{
+  "id": "subsubsec-Converting-minutes-into-hours-3",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-minutes-into-hours-3",
+  "type": "Activity",
+  "number": "4.5.2",
+  "title": "",
+  "body": " Work in groups.     Grade 7 learners recorded the time they spent doing various activities during their leisure time.    Name  Activity  Time taken in minutes  Time taken in hours    Moraa  Running  120     Akinyi  Playing football  90     Ekadeli  Reading story books  60      Why should we engage in positive leisure activity?  Fill in the table to show the time spent by each learner in hours.  Share your work with other learners in class.    "
+},
+{
+  "id": "subsubsec-Converting-minutes-into-hours-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-minutes-into-hours-4",
+  "type": "Example",
+  "number": "4.5.6",
+  "title": "",
+  "body": "  A bus took to travel from Kisumu to Nairobi. What time did it take in hours and minutes?    The bus took   Note that,          9 hours    60  560      -540     20 mins     The bus took to travel from Kisumu to Nairobi.   "
+},
+{
+  "id": "subsubsec-Converting-minutes-into-seconds-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-minutes-into-seconds-4",
+  "type": "Activity",
+  "number": "4.5.3",
+  "title": "",
+  "body": "     Using a stopwatch or a rist watch or a clock watch, observe and record the number of seconds in the following minutes.    Minutes  Seconds    1 minute     3 minutes     5 minutes     10 minutes      How many seconds are there in a minutes?  Share your findings with other learners in class.     "
+},
+{
+  "id": "subsubsec-Converting-minutes-into-seconds-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-minutes-into-seconds-5",
+  "type": "Example",
+  "number": "4.5.7",
+  "title": "",
+  "body": "   a) .Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).      "
+},
+{
+  "id": "subsubsec-Converting-second-into-minutes-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-minutes-4",
+  "type": "Activity",
+  "number": "4.5.4",
+  "title": "",
+  "body": "     Using a stopwatch or a rist watch or a clock watch, observe and record the number of minutes in the following seconds.    Seconds  Minutes    60 seconds     120 seconds     180 seconds     240 seconds     300 seconds      Share your work with other learners in class.     "
+},
+{
+  "id": "subsubsec-Converting-second-into-minutes-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-minutes-5",
+  "type": "Example",
+  "number": "4.5.8",
+  "title": "",
+  "body": "  A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took    "
 },
 {
   "id": "sec-section-Temparature",
