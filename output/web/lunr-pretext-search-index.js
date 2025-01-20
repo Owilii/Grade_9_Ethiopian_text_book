@@ -619,7 +619,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "Time,Distance and speed",
-  "body": " Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time    Note:    time      Time is measured in seconds, minuites and hours.  Therefore, , and are the units of measurering time.        What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is       Moraa recorded the time she spent during a morning run exercise.   Exe2   For how long did he run?    Moraa ran for .     Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   hour  minutes.   Work in pairs.      Whate you need.  razer blade,manniler paper(white and yellow), black maker pen,a wire and a pair of campus.   Make a clock face like the one shown alongside using a paper cut out.  Move the minute hand clockwise to make a complete turn.  How many minutes does the minuite hand cover in one complete turn?  Observe how the hour hand moves when the minute hand make one complete turn. What have you noticed?  Share your findings with other learners in class.     Clock    Learning point.  From the above activity you should notice that;   hour  minutes.     Convert hours    Conversion of hours to minutes, we use the conversion units that is .       Therefore,         How many minuites are the in hours?          Therefore,         A motorist took to travel from Kilifi to Machakos. How many minutes did he take during the travel?    Hours he took was   To convert the hours taken to minuites, use   Therefore,     The minutes taken for the travel is       Converting minutes into hours  As discused before that . it's clear to see also that .   Work in groups.     Grade 7 learners recorded the time they spent doing various activities during their leisure time.    Name  Activity  Time taken in minutes  Time taken in hours    Moraa  Running  120     Akinyi  Playing football  90     Ekadeli  Reading story books  60      Why should we engage in positive leisure activity?  Fill in the table to show the time spent by each learner in hours.  Share your work with other learners in class.       A bus took to travel from Kisumu to Nairobi. What time did it take in hours and minutes?    The bus took   Note that,          9 hours    60  560      -540     20 mins     The bus took to travel from Kisumu to Nairobi.      Converting minutes into seconds  The statment for conversion states that,   .       Using a stopwatch or a rist watch or a clock watch, observe and record the number of seconds in the following minutes.    Minutes  Seconds    1 minute     3 minutes     5 minutes     10 minutes      How many seconds are there in a minutes?  Share your findings with other learners in class.         a) .Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).         Converting second into minutes.  Converting seconds into minutes depend on the previous sub-topic.  Notice that,        Using a stopwatch or a rist watch or a clock watch, observe and record the number of minutes in the following seconds.    Seconds  Minutes    60 seconds     120 seconds     180 seconds     240 seconds     300 seconds      Share your work with other learners in class.        A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took       Converting hours into seconds      "
+  "body": " Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time    Note:    time      Time is measured in seconds, minuites and hours.  Therefore, , and are the units of measurering time.        What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is       Moraa recorded the time she spent during a morning run exercise.   Exe2   For how long did he run?    Moraa ran for .     Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   hour  minutes.   Work in pairs.      Whate you need.  razer blade,manniler paper(white and yellow), black maker pen,a wire and a pair of campus.   Make a clock face like the one shown alongside using a paper cut out.  Move the minute hand clockwise to make a complete turn.  How many minutes does the minuite hand cover in one complete turn?  Observe how the hour hand moves when the minute hand make one complete turn. What have you noticed?  Share your findings with other learners in class.     Clock    Learning point.  From the above activity you should notice that;   hour  minutes.     Convert hours    Conversion of hours to minutes, we use the conversion units that is .       Therefore,         How many minuites are the in hours?          Therefore,         A motorist took to travel from Kilifi to Machakos. How many minutes did he take during the travel?    Hours he took was   To convert the hours taken to minuites, use   Therefore,     The minutes taken for the travel is       Converting minutes into hours  As discused before that . it's clear to see also that .   Work in groups.     Grade 7 learners recorded the time they spent doing various activities during their leisure time.    Name  Activity  Time taken in minutes  Time taken in hours    Moraa  Running  120     Akinyi  Playing football  90     Ekadeli  Reading story books  60      Why should we engage in positive leisure activity?  Fill in the table to show the time spent by each learner in hours.  Share your work with other learners in class.       A bus took to travel from Kisumu to Nairobi. What time did it take in hours and minutes?    The bus took   Note that,          9 hours    60  560      -540     20 mins     The bus took to travel from Kisumu to Nairobi.      Converting minutes into seconds  The statment for conversion states that,   .       Using a stopwatch or a rist watch or a clock watch, observe and record the number of seconds in the following minutes.    Minutes  Seconds    1 minute     3 minutes     5 minutes     10 minutes      How many seconds are there in a minutes?  Share your findings with other learners in class.         a) .Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).         Converting second into minutes.  Converting seconds into minutes depend on the previous sub-topic.  Notice that,        Using a stopwatch or a rist watch or a clock watch, observe and record the number of minutes in the following seconds.    Seconds  Minutes    60 seconds     120 seconds     180 seconds     240 seconds     300 seconds      Share your work with other learners in class.        A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took       Converting hours into seconds  By the conversion above for minutes to hours,seconds to minutes,etc,  Convertion of hours to second, use .    Convert to seconds.    if , Therefore,            Morara covered a certain distance in . How long did the journey take in seconds?    If , therefore,     The journey took .      Converting second into hours  As stated earlier that,   It also implies that, .   Work in groups of 4     Fill in the table below. You may use a calculator to work out the division.    Seconds  Minutes  Hours                          Share your answer with other learners in your class.        Convert into hours.    If       .      Baya spent seconds washing clothes. How much time did he spend in hours?       Therefore,  Baya spent washing clothes.       Units of measuring distance.   Distance is the length of the space between two points. eg  Distance from the grade 7 classroom and the assembly, home to school, assembly to your school latrine and etc.  The SI unit of measuring distance is .     Kilometres can be written as .    Metres can also be written .       Converting kilometres into metres  The conversions are as follows;     Similarly       The distance from Jerald's home to the school is . He walks to school and back every day. How many metres does he walk every day?    Estimate the following distances in kilommetres and convert the estimated distance to metres.     Description  Estimated distance in kilometres  Estimated distance in metres    a)  The distance from the school to the nearest shopping centure.      b)  The distance from the classroom to the assembly ground.      c)  The distance from the school to the nearest police station.        Share your work with other learners in your class.        Convert to metres.    If   Therefore,     Therefore,       Josphat cycled for . How many metres did he cycle?       Josephat cycled for .      The distance from Owilli's home to school is . How many metres is the school away from Owili's home?       The distance from Owili's home to the school is .      Converting metres to kilometres.  As discussed above, the conversion of metres to kilometres is,    Work in groups.     Grade 7 learners made the number cards below.                          Convert each of the above distance into kilometres  Hint: .    Share your work with other learners in class.        Convert to kilometres.    Using the conversion formula that outlines, .     Therefore,         During a sports day, Murunga ran a distance of . What distance did he cover in kilometres?       Murunga coverd .       Speed  Speed - is the total distance covered over the time taken in any activity done.  The SI unit of measuring speed is kilometres per hour( ) or metres per second( ).   Speed in kilometres per hour (km\/h).  Speed is measured in .   Work in groups  Go outside the classroom to the school's athletics field.     Take a walk outside the classroom and go to an athletics field.   (field)   One lap on the athletic field is     Walk round the field one lap and record the time you take.    Run round the field once and record the time you take.    Run round the field two times and record the time you take.    Run round the field three times and record the time you take.    Fill the table below.     Description  Distance in  Time taken in hours      a)  Walking round the field once       b)  Running round the field       c)  Running round the field twice       d)  Running round the field thrice         Share your work with other learners in your class.      LEARNING POINT      Speed is expressed in terms of distance covered per unit time.    Speed can either be expressed in kilometres per hour ( ) or metres per second ( ).       A truck travelled a distance of in . What was its speed in kilometres per hour?       The speed for the truck is, .      Akinyi walked a distance of in . What was her speed in        Her speed was       Speed in metres per-second(m\/s)  Speed can also be expressed in metres per second( ).   Work in groups     Take a walk outside the classroom.   Mark a distancde of in the field.  Take turns to run the .  Use a stopwatch to record the time taken by each learner in the group   Fill in the table below.     Name of the learner  Distance in metres  Time taken in sedconds     a)        b)        c)          Share your work with other learners in your class.        "
 },
 {
   "id": "sec-section-Time-Distance-and-speed-6",
@@ -730,13 +730,157 @@ var ptx_lunr_docs = [
   "body": "  A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took    "
 },
 {
+  "id": "subsubsec-Converting-hours-into-seconds-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-hours-into-seconds-4",
+  "type": "Example",
+  "number": "4.5.9",
+  "title": "",
+  "body": "  Convert to seconds.    if , Therefore,         "
+},
+{
+  "id": "subsubsec-Converting-hours-into-seconds-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-hours-into-seconds-5",
+  "type": "Example",
+  "number": "4.5.10",
+  "title": "",
+  "body": "  Morara covered a certain distance in . How long did the journey take in seconds?    If , therefore,     The journey took .   "
+},
+{
+  "id": "subsubsec-Converting-second-into-hours-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-hours-4",
+  "type": "Activity",
+  "number": "4.5.5",
+  "title": "",
+  "body": " Work in groups of 4     Fill in the table below. You may use a calculator to work out the division.    Seconds  Minutes  Hours                          Share your answer with other learners in your class.     "
+},
+{
+  "id": "subsubsec-Converting-second-into-hours-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-hours-5",
+  "type": "Example",
+  "number": "4.5.11",
+  "title": "",
+  "body": "  Convert into hours.    If       .   "
+},
+{
+  "id": "subsubsec-Converting-second-into-hours-6",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-hours-6",
+  "type": "Example",
+  "number": "4.5.12",
+  "title": "",
+  "body": "  Baya spent seconds washing clothes. How much time did he spend in hours?       Therefore,  Baya spent washing clothes.   "
+},
+{
+  "id": "subsubsec-Converting-kilometres-into-metres-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-kilometres-into-metres-5",
+  "type": "Activity",
+  "number": "4.5.6",
+  "title": "",
+  "body": "    The distance from Jerald's home to the school is . He walks to school and back every day. How many metres does he walk every day?    Estimate the following distances in kilommetres and convert the estimated distance to metres.     Description  Estimated distance in kilometres  Estimated distance in metres    a)  The distance from the school to the nearest shopping centure.      b)  The distance from the classroom to the assembly ground.      c)  The distance from the school to the nearest police station.        Share your work with other learners in your class.     "
+},
+{
+  "id": "subsubsec-Converting-kilometres-into-metres-6",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-kilometres-into-metres-6",
+  "type": "Example",
+  "number": "4.5.13",
+  "title": "",
+  "body": "  Convert to metres.    If   Therefore,     Therefore,    "
+},
+{
+  "id": "subsubsec-Converting-kilometres-into-metres-7",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-kilometres-into-metres-7",
+  "type": "Example",
+  "number": "4.5.14",
+  "title": "",
+  "body": "  Josphat cycled for . How many metres did he cycle?       Josephat cycled for .   "
+},
+{
+  "id": "subsubsec-Converting-kilometres-into-metres-8",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-kilometres-into-metres-8",
+  "type": "Example",
+  "number": "4.5.15",
+  "title": "",
+  "body": "  The distance from Owilli's home to school is . How many metres is the school away from Owili's home?       The distance from Owili's home to the school is .   "
+},
+{
+  "id": "subsubsec-Converting-metres-to-kilometres-3",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-metres-to-kilometres-3",
+  "type": "Activity",
+  "number": "4.5.7",
+  "title": "",
+  "body": " Work in groups.     Grade 7 learners made the number cards below.                          Convert each of the above distance into kilometres  Hint: .    Share your work with other learners in class.     "
+},
+{
+  "id": "subsubsec-Converting-metres-to-kilometres-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-metres-to-kilometres-4",
+  "type": "Example",
+  "number": "4.5.16",
+  "title": "",
+  "body": "  Convert to kilometres.    Using the conversion formula that outlines, .     Therefore,      "
+},
+{
+  "id": "subsubsec-Converting-metres-to-kilometres-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Converting-metres-to-kilometres-5",
+  "type": "Example",
+  "number": "4.5.17",
+  "title": "",
+  "body": "  During a sports day, Murunga ran a distance of . What distance did he cover in kilometres?       Murunga coverd .   "
+},
+{
+  "id": "subsubsec-Speed-in-kilometres-per-hour-3",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Speed-in-kilometres-per-hour-3",
+  "type": "Activity",
+  "number": "4.5.8",
+  "title": "",
+  "body": " Work in groups  Go outside the classroom to the school's athletics field.     Take a walk outside the classroom and go to an athletics field.   (field)   One lap on the athletic field is     Walk round the field one lap and record the time you take.    Run round the field once and record the time you take.    Run round the field two times and record the time you take.    Run round the field three times and record the time you take.    Fill the table below.     Description  Distance in  Time taken in hours      a)  Walking round the field once       b)  Running round the field       c)  Running round the field twice       d)  Running round the field thrice         Share your work with other learners in your class.      LEARNING POINT      Speed is expressed in terms of distance covered per unit time.    Speed can either be expressed in kilometres per hour ( ) or metres per second ( ).    "
+},
+{
+  "id": "subsubsec-Speed-in-kilometres-per-hour-4",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Speed-in-kilometres-per-hour-4",
+  "type": "Example",
+  "number": "4.5.18",
+  "title": "",
+  "body": "  A truck travelled a distance of in . What was its speed in kilometres per hour?       The speed for the truck is, .   "
+},
+{
+  "id": "subsubsec-Speed-in-kilometres-per-hour-5",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Speed-in-kilometres-per-hour-5",
+  "type": "Example",
+  "number": "4.5.19",
+  "title": "",
+  "body": "  Akinyi walked a distance of in . What was her speed in        Her speed was    "
+},
+{
+  "id": "subsubsec-Speed-in-metres-per-second-3",
+  "level": "2",
+  "url": "sec-section-Time-Distance-and-speed.html#subsubsec-Speed-in-metres-per-second-3",
+  "type": "Activity",
+  "number": "4.5.9",
+  "title": "",
+  "body": " Work in groups     Take a walk outside the classroom.   Mark a distancde of in the field.  Take turns to run the .  Use a stopwatch to record the time taken by each learner in the group   Fill in the table below.     Name of the learner  Distance in metres  Time taken in sedconds     a)        b)        c)          Share your work with other learners in your class.     "
+},
+{
   "id": "sec-section-Temparature",
   "level": "1",
   "url": "sec-section-Temparature.html",
   "type": "Section",
   "number": "4.6",
   "title": "Temparature",
-  "body": " Temparature      "
+  "body": " Temparature   hey   "
 },
 {
   "id": "sec-section-Temparature-2",
@@ -745,7 +889,7 @@ var ptx_lunr_docs = [
   "type": "Checkpoint",
   "number": "4.6.1",
   "title": "",
-  "body": "   "
+  "body": " hey  "
 },
 {
   "id": "sec-section-Money",
