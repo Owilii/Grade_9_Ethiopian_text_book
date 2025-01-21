@@ -1227,6 +1227,65 @@
           </ol>
         </p>
       </activity>
+      <example>
+        <statement>
+          <p>
+            Mark covered a distance of <m>100\,m</m> in <m>20\, seconds</m>. 
+            What was his speed in metres per seconds?
+          </p>
+          <p>
+            <m>Speed = \frac{distance covered}{time \, taken}</m>
+          </p>
+          <p>
+            Distance he covered <m>=100\,m</m>, Time he took <m>20 \, seconds </m>
+          </p>
+          <p>
+            Therefore,
+          </p>
+          <p>
+            <md>
+              <mrow> speed=\amp (100 \, m \div 20 \, seconds)</mrow>
+              <mrow> = \amp (\frac{100}{20}) \, m/s</mrow>
+              <mrow> \=amp 5 \, m/s </mrow>
+            </md>
+          </p>
+          <p>
+            Mark's speed is <m> 5 \, m/s </m>.
+          </p>
+          
+        </statement>
+      </example>
+      <example>
+        <statement>
+          <p>
+            A cyclist covered a distance of <m>200\,m</m> 
+            in <m>2\, minutes </m>. What was his speed in <m>m/s</m>?
+          </p>
+        </statement>
+        <hint>
+          <p>
+            Convert <m>2\, minutes \,to seconds\text{ by the conversion rule}</m>
+          </p>
+          <p>
+            <m>1 \, minutes= 60 \, seconds</m>
+          </p>
+        </hint>
+        <solution>
+          <p>
+            Converting <m>2\, minutes</m> to seconds
+          </p>
+          <p>
+            if <md>
+              <mrow> 1 \, minutes=\amp 60 \, seconds </mrow>
+              <mrow> 2\, minutes=  \amp 2\, minutes 60 \, seconds\times </mrow>
+              <mrow>= \amp 120\, seconds</mrow>
+            </md>
+          </p>
+          <p>
+            
+          </p>
+        </solution>
+      </example>
       
     </subsubsection>
 

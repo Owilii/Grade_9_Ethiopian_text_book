@@ -2,17 +2,58 @@
 
 <section xml:id="sec-section-Pythagorean-relationship" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Pythagorean relationship</title>
-  <p>
-    Why pythagorean relationship?
-  </p>
+ <p>
+  <ul>
+    <li>
+      <p>
+        A triangle that contains a right angle 
+        (an angle that measures <m>90^\circ</m>,symbolized by a small square "□") is
+        called a right triangle.
+      </p>
+    </li>
+    <li>
+      <p>
+        The longest side of the right triangle (the side opposite the <m>90^\circ</m> angle)
+        is called the hypotenuse and the other two (shorter) sides 
+        are called the legs of the triangle.
+
+      </p>
+    </li>
+    <li>
+      <p>
+        The legs of a right triangle are commonly labeled
+        "<m>a</m>" and "<m>b</m>"while the hypotenuse 
+        is labeled "<m>c.</m>
+      </p>
+    </li>
+  </ul>
+ </p>
+  <image>
+  <latex-image>
+    \begin{tikzpicture}
+      \draw [thick,fill=pink](0,0)  --(0,5) --(5,0) --(0,0);
+      \draw (0,0) --(0,0.5) --(0.5,0.5) --(0.5,0) --(0,0);
+      \node at (-1,2.5){$height\, (b) $};
+      \node at (3.5,2.5){$Hypotenuse\,(c)$};
+      \node at (2.5,-0.5){$base\,(a)$};
+      \node at (-1,0.3){$Right \, angle$};
+      
+    \end{tikzpicture}
+  </latex-image>
+         
+  </image>
+
+
   <p>
     <ul>
       <li>
         <p>
           Pythagorean relationship is used in real life in different areas. We
-          use the pythagorean relationship in surveying,engineering and capentry to  desighn houses,
-          furniture,fields and land sub-division.
+          use the pythagorean relationship in  capentry to  desighn houses,
+          furniture,fields,land sub-division,When designing buildings or rooms eg your classroom,
+           In sports like basketball, football, or soccer, and many more.
         </p>
+        
       </li>
       <li>
         <p>
@@ -21,25 +62,26 @@
           triangle, then the sum of the area of the two small squares is exactly the
           same as the area of the large square. As shown in the figure below;
         </p>
-      </li>
-      <li>
-        
         <image source="/Rightangle-triangle.png" width="50%">
           <shortdescription>The ubove description for about 2000 years</shortdescription>
-         </image>
-        
+        </image>
+        <p>
+          Where <m>a</m>, <m>b</m> and <m>c</m> represent the sides 
+          of the right-angled triangle
+        </p>
       </li>
+    
     </ul>
   </p>
-  <p>
-    The sides of a right-angled triangle
-  </p>
-  <p>
-    Work in Groups
-  </p>
+
+
   
   <activity> 
+    
     <statement>
+      <p>
+         Work in Groups.
+      </p>
       <p>
         Read the story below.
       </p>
@@ -104,8 +146,17 @@
         Here is the correct Learning point.
       </p>
       <sidebyside>
-        <image source="/Triangle-tree.png" width="100%">
-          <shortdescription>The drawn right angle triangle</shortdescription>
+        <image>
+        <latex-image>
+          \begin{tikzpicture}
+            \draw [thick,fill=green](0,0) --(5,5) --(5,0) --(0,0);
+            \draw (4.5,0) --(4.5,0.5) --(5,0.5) --(5,0) --(4.5,0);
+            \node at (2.5,3){$10 \, m$};
+            \node at (5.5,2.5){$8 \, m$};
+            \node at (2.5,-0.5){$6 \, m$};
+          \end{tikzpicture}
+        </latex-image>
+         
         </image>
         <p>
           <ul>
@@ -187,11 +238,9 @@
         <li>
           <p>
             <me>
-              a^2+b^2=c^2
+              c^2=a^2+b^2
             </me>
           </p>
-        </li>
-        <li>
           <p>
             <md>
               <mrow>b^2= \amp c^2-a^2</mrow>
@@ -199,6 +248,7 @@
             </md>
           </p>
         </li>
+     
       </ul>
     </p>
 
@@ -218,6 +268,16 @@
       <p>
         To find the length of any side of the right-angled triangle, we use the 
         pythagorean relationship which state that: <m>c^2=a^2+b^2 </m>.
+      </p>
+      <p>
+        In the above example,
+      </p>
+      <p>
+        <md>
+          <mrow> a=\amp 6\,cm </mrow>
+          <mrow> b=\amp 8\,cm </mrow>
+          <mrow> c=\amp y </mrow>
+        </md>
       </p>
       <p>
         Therefore,
@@ -272,7 +332,38 @@
     </hint>
     <solution>
       <p>
-        Using the pythagorean relationship that outlines that, <m>a^2+b^2=c^2</m> therefore,
+        The figure below shows the sketch of the ladder placced on the wall.
+      </p>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+          \draw [very thick,fill=blue] (6,0) --(6,8);
+          \draw [thick,fill=white] (0,0) --(6,6) --(6,0)--(0,0);
+          \draw [very thick,fill=blue] (-1,0)--(6,7);
+          \draw[very thick](-0.5,0.5) --(0,0);
+          \draw[very thick](-0.4,0.6)--(0.1,0.1);
+          \draw[very thick](0.3,1.3) --(0.8,0.8);
+          \draw[very thick](0.4,1.4) --(0.9,0.9);
+          \draw[very thick](1,2) --(1.5,1.5);
+          \draw[very thick](1.1,2.1) --(1.6,1.6);
+          \draw[very thick](2,3) --(2.5,2.5);
+          \draw[very thick](2.1,3.1) --(2.6,2.6);
+          \draw[very thick](3,4) --(3.5,3.5);
+          \draw[very thick](3.1,4.1) --(3.6,3.6);
+          \draw[very thick](4,5) --(4.5,4.5);
+          \draw[very thick](4.1,5.1) --(4.6,4.6);
+          \draw[very thick](5,6) --(5.5,5.5);
+          \draw[very thick](5.1,6.1) --(5.6,5.6);
+          \node at (3,-0.5){$5\,m$};
+          \node at (6.5,3){$12\,m$};
+          \node at (3,2){$c$};
+
+        \end{tikzpicture}
+      </latex-image>
+      
+      </image>
+      <p>
+        Using the pythagorean relationship that outlines <m>a^2+b^2=c^2</m>,
       </p>
       <p>
         <md>
@@ -293,8 +384,17 @@
       <p>
         Find the length of <m> w </m> in the figure below.
       </p>
-      <image source="/right-angled-triangle.png" width="30%">
-        <shortdescription>example 2</shortdescription>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+          \draw [thick,fill=blue] (0,4) --(4,4) --(4,0) --(0,4);
+          \node at (2,1){$40 \,cm$};
+          \node at (2,4.5){$w \,cm$};
+          \node at (4.5,2){$24 \,cm$};
+          \draw (3.5,3.5) --(3.5,4) --(4,4) --(4,3.5) --(3.5,3.5);
+        \end{tikzpicture}
+      </latex-image>
+        
       </image>
     </statement>
     <solution>
@@ -321,7 +421,7 @@
       <image width="40%">
       <latex-image>
         \begin{tikzpicture}
-          \draw(0,0) coordinate (A)-- (0,5) coordinate (B)-- (5,0) coordinate (C)-- (0,0)coordinate (A);
+          \draw [thick,fill=white](0,0) coordinate (A)-- (0,5) coordinate (B)-- (5,0) coordinate (C)-- (0,0)coordinate (A);
           \node at (0,-0.5){R};
           \node at (0,5.5){P};
           \node at (5,-0.5){Q};

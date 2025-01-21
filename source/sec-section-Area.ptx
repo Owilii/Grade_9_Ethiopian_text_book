@@ -6,17 +6,13 @@
     <p>
       Why area?
     </p>
-    <sidebyside>
-      <p>
-        Before we fix ceiling boards and carpets in houses, 
-        we need to work out the area of the ceiling and the 
-        floor 0f the house. in addition, the cost of selling or leasing 
-        land is estimated based on the area.
-      </p>
-      <image source="/Area.png" width="30%">
-        <shortdescription>Area</shortdescription>
-      </image>
-    </sidebyside>
+    <p>
+      Area is the region bounded by the shape of an object.
+    </p>
+    <p>
+      We  calculate areas of different objects eg. triangle, rectangle, squre,circle, and many more.
+    </p>
+
   </introduction>
   
   <subsection xml:id="subsec-Square-metres-acres-and-hectares">
@@ -27,7 +23,7 @@
       <title>Square metres<m>(m^2)</m></title>
   
       <p>
-        Check the illustration below to explain more about Area <m>m^2</m>
+        Check the illustration below explaining more about Area(<m>m^2</m>).
       </p>
       <sidebyside>
         <image width="20%">

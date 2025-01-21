@@ -4,8 +4,17 @@
     Here is the correct Learning point.
   &lt;/p&gt;
   &lt;sidebyside&gt;
-    &lt;image source="/Triangle-tree.png" width="100%"&gt;
-      &lt;shortdescription&gt;The drawn right angle triangle&lt;/shortdescription&gt;
+    &lt;image&gt;
+    &lt;latex-image&gt;
+      \begin{tikzpicture}
+        \draw [thick,fill=green](0,0) --(5,5) --(5,0) --(0,0);
+        \draw (4.5,0) --(4.5,0.5) --(5,0.5) --(5,0) --(4.5,0);
+        \node at (2.5,3){$10 \, m$};
+        \node at (5.5,2.5){$8 \, m$};
+        \node at (2.5,-0.5){$6 \, m$};
+      \end{tikzpicture}
+    &lt;/latex-image&gt;
+     
     &lt;/image&gt;
     &lt;p&gt;
       &lt;ul&gt;
