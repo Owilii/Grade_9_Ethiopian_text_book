@@ -2,6 +2,8 @@
 
 <section xml:id="sec-section-Time-Distance-and-speed" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Time,Distance and speed</title>
+   <subsection xml:id="Time-Distance-and-speed">
+    <title>Time,Distance and speed</title>
   <p>
     Why time, distance and speed.
   </p>
@@ -86,6 +88,7 @@
       </p>
     </solution>
   </example>
+  </subsection>
 
 
   <subsection xml:id="subsec-Units-of-measuring-time">
@@ -410,7 +413,7 @@
         <statement>
           <sidebyside>
             <p>
-              a) .Convert <m>12 \, minutes </m> into seconds.
+              a).Convert <m>12 \, minutes </m> into seconds.
             </p>
             <p>
               b). Owilii took <m>5 \, minutes \,24 \, seconds</m> 
@@ -998,13 +1001,15 @@
   <subsection xml:id="subsec-Speed">
     <title>Speed</title>
 
-    <p>
-      Speed - is the total distance covered over the time taken in any activity done.
-    </p>
-    <p>
-      The SI unit of measuring speed is kilometres per hour(<m>km/h</m>) or 
-      metres per second(<m>m/s</m>).
-    </p>
+    <introduction>
+        <p>
+          Speed - is the total distance covered over the time taken in any activity done.
+        </p>
+        <p>
+          The SI unit of measuring speed is kilometres per hour(<m>km/h</m>) or 
+          metres per second(<m>m/s</m>).
+        </p>
+    </introduction>
     <subsubsection xml:id="subsubsec-Speed-in-kilometres-per-hour">
       <title>Speed in kilometres per hour (km/h).</title>
       <p>
@@ -1233,11 +1238,8 @@
             Mark covered a distance of <m>100\,m</m> in <m>20\, seconds</m>. 
             What was his speed in metres per seconds?
           </p>
-          
-        </statement>
-        <solution>
           <p>
-            <m>Speed = \frac{distance\, covered}{time \, taken}</m>
+            <m>Speed = \frac{distance covered}{time \, taken}</m>
           </p>
           <p>
             Distance he covered <m>=100\,m</m>, Time he took <m>20 \, seconds </m>
@@ -1249,14 +1251,14 @@
             <md>
               <mrow> speed=\amp (100 \, m \div 20 \, seconds)</mrow>
               <mrow> = \amp (\frac{100}{20}) \, m/s</mrow>
-              <mrow> =\amp 5 \, m/s </mrow>
+              <mrow> \=amp 5 \, m/s </mrow>
             </md>
           </p>
           <p>
             Mark's speed is <m> 5 \, m/s </m>.
           </p>
           
-        </solution>
+        </statement>
       </example>
       <example>
         <statement>
@@ -1280,7 +1282,7 @@
           <p>
             if <md>
               <mrow> 1 \, minutes=\amp 60 \, seconds </mrow>
-              <mrow> 2\, minutes=  \amp 2\, minutes \times 60 \, seconds </mrow>
+              <mrow> 2\, minutes=  \amp 2\, minutes 60 \, seconds\times </mrow>
               <mrow>= \amp 120\, seconds</mrow>
             </md>
           </p>
