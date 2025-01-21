@@ -187,7 +187,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Length",
-  "body": " Length   Why length?   We use length in daily life. A carpenter uses length to determine the size of the furniture. A contractor, a tailor, an engineer and a navigator uses length to accomplish their tasks.   length      conversion of units of length    Converting units of length.   Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step . from the picture above,   How many decimetres are there in a metr  How many decimetres are there in a Decametre?  How many metrea are there in a Hectometre?    length conversion    Conversion of length.  To perfom the operations involving length, measurements must be of the same units.     On a ruler, count the number of in .    Measure and cut a string long.       Find the number of times it fits on a string of length     Fill in the table below.         ______mm = 1cm    ______cm = 1dm    ______dm = 1m      Learning point.    10mm = 1cm    10cm = 1dm    10dm = 1m    10m = 1Dm    10Dm = 1Hm    10Hm = 1km     The standard unit for measuring length internationally is   a. We multiply a unit by 10 to convert it to the nexr in descending order.   b. We divide a unit by 10 to convert it to the nexr in descending order.       Convert to                  Convert to                  Convert to                 1. Convert each of the following to :  (a)                   (b)                     6. Convert each of the following to :  (a)                       (b)                       (c)                       Addition and Subraction of units of length    Using a tapemeasure.   measure the distance from the classroom door to flagpost    measure the distance from flagpost to the staffroom.    Find the total distance measured.         Work out  +      Allign the same units vertically.        Dm  cm    +  8  5     7  6     16  1         Add    to          Hm  Dm  m  dm     1  6  5  6    +  9  5  4  4     11  2  0  0            Measure and cut off a string of length .    From the string cut off a string of length .         Subtract  from      Allign the same units vertically starting from the second then the first one.        m  cm     5  25    -  3  15     2  10         work out    -          Hm  Dm  m  dm  cm     6  5  3  4  3    -  4  6  2  5  3     1  9  0  9  0         Multiplication involving units of length    Prepare a number of sticks of the same length  place them end to end.  Measure their total length.  Relate the length of each stick to the total length.      Work out          Dm  m    8  9       3    26  7          , write regroup to                 Calculate:     Hm  Dm  m    6  8  5        5                   Hm  Dm  m    6  8  5        5    34  2  5          , write regroup to add it to get  to      Add to to get              Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to tha of the original string.   Prepare      Work out            2Dm  2m    6  13Dm  2m     12Dm       10      +2      12      -12      00        Divide by to get remainder .    Convert to to get .    Add to to get .    Divide by to get .            Calculate          3Hm  1Dm  6m    12Hm  37Dm  9m  2m     -36         10       +9       19       -12        70       +2       72       -72       00            Perimeter of plane figures    We need paper cut-outs and a ruler.     Make paper cut-outs of different plane figures.    Make paper cut-outs of different plane combined shapes.    Measure the distance round each shape using a piece of string and a ruler.    Compare the answers in step 2 and 3 and note the difference.     Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.      Work out the perimeter of the given plane figures.                      Perimeter of a square.     Perimeter of a rectangle.          Work out the perimeter of the figure alongside       We add all the sides to get the perimeter.      Extended activity   Johnluck made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. work out the perimeter of the combined cut            Circumfrence of circles      We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumfrence of each circular object using a tapemeasure as shown alongside, Or a string if you don't have a tapemeasure and record your answer.    Use a ruler to meaaure the length of the string that is equal to the string that is equal to the circumfrence.    measure the diameter of each circular object as shown below. The distance is the diameter of each object.     measuring circumfrence     (measurind diameter)   5.Draw and fill in the table like the one shown below.      Object  Circumfrence (C)  Diameter (d)  circumfrence diameter                           6. What do you notice about the values of ?  Connect.     The circumfrence is the distance round a circle.    When you divide the circumfrence by the diameter of any circular object, the number you get is approximately correct to two decimal places.   Circumfrence     The number is called and is represented by the symbol . As a fraction, . Therefore, circumfrence     Two radii are equal to the diameter. Hence   Circumfrence        "
+  "body": " Length   Length in focus.   Consider a tailor cutting out and doing your school unifom. He has to take your measurements using a tape measure labelled alongside, record them down then take the fabric to make your uniform , measure then cut the fabric ready to sew it to come up with a well fitting uniform for you.   length      conversion of units of length    Converting units of length.   Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step from the picture above.   How many decimetres are there in a metre?  How many decimetres are there in a Decametre?  How many metres are there in a Hectometre?    length conversion    Conversion of length.         Collect a number of sticks and cut them according to the exact height of the staircase in your environment.    Measure the sticks to uniform length in my case it's long.  I have what about you?    We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width.    Fill in the table below to test mastery of skills learnt from the activity...             ______mm = 1cm    ______cm = 1dm    ______dm = 1m      Learning point.    10mm = 1cm    10cm = 1dm    10dm = 1m    10m = 1Dm    10Dm = 1Hm    10Hm = 1km        a. We multiply a unit by to convert it to the next in descending order.   b. We divide a unit by to convert it to the next in descending order.       Moraa walks from home to school taking . Convert Moraa's distance in .    Since,        Moraa walks from home to school.      The path from the gate to the office in Myra school is . What is the distance in centimetres?    Distance is .  The conversion is,     Therefore,     The path from the gate to the school is .      Addition and Subraction of units of length        Work in groups using a 30cm ruler.    Measure the width of your classroom window.    Measure the distance from door to the furthest corner of your classsroom.    What do you notice about the width of the windows and the door?    They are smaller than the wall measurement.    Take the total length of all walls and subtract the width of windows and classroom door and note down.      (Measuring length)        Work out  +      Allign the same units vertically.        Dm  cm    +  8  5     7  6     16  1         Add    to          Hm  Dm  m  dm     1  6  5  6    +  9  5  4  4     11  2  0  0            Measure and cut off a string of length .    From the string cut off a string of length .         Subtract  from      Allign the same units vertically starting from the second then the first one.        m  cm     5  25    -  3  15     2  10         work out    -          Hm  Dm  m  dm  cm     6  5  3  4  3    -  4  6  2  5  3     1  9  0  9  0         Multiplication involving units of length       Take the number of steps in our staircase and multiply by the height and you will have the total height without measuring the like in the case of my continuos arrow labelled     Measure their total length and width.            Work out          Dm  m    8  9       3    26  7          , write regroup to                 Calculate:     Hm  Dm  m    6  8  5        5                   Hm  Dm  m    6  8  5        5    34  2  5          , write regroup to add it to get  to      Add to to get              Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to that of the original string.   Prepare      Work out            2Dm  2m    6  13Dm  2m     12Dm       10      +2      12      -12      00        Divide by to get remainder .    Convert to to get .    Add to to get .    Divide by to get .            Calculate          3Hm  1Dm  6m    12Hm  37Dm  9m  2m     -36         10       +9       19       -12        70       +2       72       -72       00            Perimeter of plane figures    We need paper cut-outs and a ruler.     Make paper cut-outs of different plane figures.    Make paper cut-outs of different plane combined shapes.    Measure the distance round each shape using a piece of string and a ruler.    Compare the answers in step 2 and 3 and note the difference.     Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.      Work out the perimeter of the given plane figures.                      Perimeter of a square.     Perimeter of a rectangle.          Work out the perimeter of the figure alongside       We add all the sides to get the perimeter.      Extended activity   ombui made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. work out the perimeter of the combined cut            Circumfrence of circles      We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumfrence of each circular object using a tapemeasure as shown alongside, Or a string if you don't have a tapemeasure and record your answer.    Use a ruler to meaaure the length of the string that is equal to the string that is equal to the circumfrence.    measure the diameter of each circular object as shown below. The distance is the diameter of each object.     measuring circumfrence     (measurind diameter)   5.Draw and fill in the table like the one shown below.      Number of Item  Object  Circumfrence (C)  Diameter (d)  circumfrence diameter    1       2       3       4        6. What do you notice about the values of ?  Connect.     The circumfrence is the distance round a circle.    When you divide the circumfrence by the diameter of any circular object, the number you get is approximately correct to two decimal places.   Circumfrence     The number is called and is represented by the symbol . As a fraction, . Therefore, circumfrence     Two radii are equal to the diameter. Hence   Circumfrence        "
 },
 {
   "id": "subsec-conversion-of-units-of-length-2",
@@ -196,7 +196,7 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "4.2.1",
   "title": "",
-  "body": "  Converting units of length.   Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step . from the picture above,   How many decimetres are there in a metr  How many decimetres are there in a Decametre?  How many metrea are there in a Hectometre?    length conversion    Conversion of length.  To perfom the operations involving length, measurements must be of the same units.     On a ruler, count the number of in .    Measure and cut a string long.       Find the number of times it fits on a string of length     Fill in the table below.         ______mm = 1cm    ______cm = 1dm    ______dm = 1m      Learning point.    10mm = 1cm    10cm = 1dm    10dm = 1m    10m = 1Dm    10Dm = 1Hm    10Hm = 1km     The standard unit for measuring length internationally is   a. We multiply a unit by 10 to convert it to the nexr in descending order.   b. We divide a unit by 10 to convert it to the nexr in descending order.    "
+  "body": "  Converting units of length.   Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step from the picture above.   How many decimetres are there in a metre?  How many decimetres are there in a Decametre?  How many metres are there in a Hectometre?    length conversion    Conversion of length.         Collect a number of sticks and cut them according to the exact height of the staircase in your environment.    Measure the sticks to uniform length in my case it's long.  I have what about you?    We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width.    Fill in the table below to test mastery of skills learnt from the activity...             ______mm = 1cm    ______cm = 1dm    ______dm = 1m      Learning point.    10mm = 1cm    10cm = 1dm    10dm = 1m    10m = 1Dm    10Dm = 1Hm    10Hm = 1km        a. We multiply a unit by to convert it to the next in descending order.   b. We divide a unit by to convert it to the next in descending order.    "
 },
 {
   "id": "subsec-conversion-of-units-of-length-3",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.2.3",
   "title": "",
-  "body": "  Convert to               "
+  "body": "  Moraa walks from home to school taking . Convert Moraa's distance in .    Since,        Moraa walks from home to school.   "
 },
 {
   "id": "subsec-conversion-of-units-of-length-4",
@@ -214,61 +214,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.2.4",
   "title": "",
-  "body": "  Convert to               "
-},
-{
-  "id": "subsec-conversion-of-units-of-length-5",
-  "level": "2",
-  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-5",
-  "type": "Example",
-  "number": "4.2.5",
-  "title": "",
-  "body": "  Convert to               "
-},
-{
-  "id": "subsec-conversion-of-units-of-length-6",
-  "level": "2",
-  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-6",
-  "type": "Checkpoint",
-  "number": "4.2.6",
-  "title": "",
-  "body": " 1. Convert each of the following to :  (a)                 "
-},
-{
-  "id": "subsec-conversion-of-units-of-length-7",
-  "level": "2",
-  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-7",
-  "type": "Checkpoint",
-  "number": "4.2.7",
-  "title": "",
-  "body": " (b)                 "
-},
-{
-  "id": "subsec-conversion-of-units-of-length-8",
-  "level": "2",
-  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-8",
-  "type": "Example",
-  "number": "4.2.8",
-  "title": "",
-  "body": "  6. Convert each of the following to :  (a)                    "
-},
-{
-  "id": "subsec-conversion-of-units-of-length-9",
-  "level": "2",
-  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-9",
-  "type": "Example",
-  "number": "4.2.9",
-  "title": "",
-  "body": "  (b)                    "
-},
-{
-  "id": "subsec-conversion-of-units-of-length-10",
-  "level": "2",
-  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-10",
-  "type": "Example",
-  "number": "4.2.10",
-  "title": "",
-  "body": "  (c)                    "
+  "body": "  The path from the gate to the office in Myra school is . What is the distance in centimetres?    Distance is .  The conversion is,     Therefore,     The path from the gate to the school is .   "
 },
 {
   "id": "subsec-Addition-and-Subraction-of-units-of-length-2",
@@ -277,14 +223,14 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "4.2.2",
   "title": "",
-  "body": "  Using a tapemeasure.   measure the distance from the classroom door to flagpost    measure the distance from flagpost to the staffroom.    Find the total distance measured.      "
+  "body": "      Work in groups using a 30cm ruler.    Measure the width of your classroom window.    Measure the distance from door to the furthest corner of your classsroom.    What do you notice about the width of the windows and the door?    They are smaller than the wall measurement.    Take the total length of all walls and subtract the width of windows and classroom door and note down.      (Measuring length)     "
 },
 {
   "id": "subsec-Addition-and-Subraction-of-units-of-length-3",
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-3",
   "type": "Example",
-  "number": "4.2.11",
+  "number": "4.2.5",
   "title": "",
   "body": "  Work out  +      Allign the same units vertically.        Dm  cm    +  8  5     7  6     16  1      "
 },
@@ -293,7 +239,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-4",
   "type": "Example",
-  "number": "4.2.12",
+  "number": "4.2.6",
   "title": "",
   "body": "  Add    to          Hm  Dm  m  dm     1  6  5  6    +  9  5  4  4     11  2  0  0      "
 },
@@ -311,7 +257,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-6",
   "type": "Example",
-  "number": "4.2.13",
+  "number": "4.2.7",
   "title": "",
   "body": "  Subtract  from      Allign the same units vertically starting from the second then the first one.        m  cm     5  25    -  3  15     2  10      "
 },
@@ -320,7 +266,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-7",
   "type": "Example",
-  "number": "4.2.14",
+  "number": "4.2.8",
   "title": "",
   "body": "  work out    -          Hm  Dm  m  dm  cm     6  5  3  4  3    -  4  6  2  5  3     1  9  0  9  0      "
 },
@@ -331,14 +277,14 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "4.2.4",
   "title": "",
-  "body": "  Prepare a number of sticks of the same length  place them end to end.  Measure their total length.  Relate the length of each stick to the total length.   "
+  "body": "     Take the number of steps in our staircase and multiply by the height and you will have the total height without measuring the like in the case of my continuos arrow labelled     Measure their total length and width.         "
 },
 {
   "id": "subsec-Multiplication-involving-units-of-length-3",
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-3",
   "type": "Example",
-  "number": "4.2.15",
+  "number": "4.2.9",
   "title": "",
   "body": "  Work out          Dm  m    8  9       3    26  7          , write regroup to              "
 },
@@ -347,7 +293,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-4",
   "type": "Example",
-  "number": "4.2.16",
+  "number": "4.2.10",
   "title": "",
   "body": "  Calculate:     Hm  Dm  m    6  8  5        5                   Hm  Dm  m    6  8  5        5    34  2  5          , write regroup to add it to get  to      Add to to get        "
 },
@@ -358,14 +304,14 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "4.2.5",
   "title": "",
-  "body": "     Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to tha of the original string.   Prepare   "
+  "body": "     Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to that of the original string.   Prepare   "
 },
 {
   "id": "subsec-Multiplication-involving-units-of-length-6",
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-6",
   "type": "Example",
-  "number": "4.2.17",
+  "number": "4.2.11",
   "title": "",
   "body": "  Work out            2Dm  2m    6  13Dm  2m     12Dm       10      +2      12      -12      00        Divide by to get remainder .    Convert to to get .    Add to to get .    Divide by to get .         "
 },
@@ -374,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-7",
   "type": "Example",
-  "number": "4.2.18",
+  "number": "4.2.12",
   "title": "",
   "body": "  Calculate          3Hm  1Dm  6m    12Hm  37Dm  9m  2m     -36         10       +9       19       -12        70       +2       72       -72       00         "
 },
@@ -392,7 +338,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-3",
   "type": "Example",
-  "number": "4.2.19",
+  "number": "4.2.13",
   "title": "",
   "body": "  Work out the perimeter of the given plane figures.                      Perimeter of a square.     Perimeter of a rectangle.       "
 },
@@ -401,7 +347,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-4",
   "type": "Example",
-  "number": "4.2.20",
+  "number": "4.2.14",
   "title": "",
   "body": "  Work out the perimeter of the figure alongside       We add all the sides to get the perimeter.    "
 },
@@ -412,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Exploration",
   "number": "4.2.7",
   "title": "",
-  "body": " Extended activity   Johnluck made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. work out the perimeter of the combined cut         "
+  "body": " Extended activity   ombui made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. work out the perimeter of the combined cut         "
 },
 {
   "id": "subsec-circumfrence-of-circles-2",
@@ -421,7 +367,7 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "4.2.8",
   "title": "",
-  "body": "    We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumfrence of each circular object using a tapemeasure as shown alongside, Or a string if you don't have a tapemeasure and record your answer.    Use a ruler to meaaure the length of the string that is equal to the string that is equal to the circumfrence.    measure the diameter of each circular object as shown below. The distance is the diameter of each object.     measuring circumfrence     (measurind diameter)   5.Draw and fill in the table like the one shown below.      Object  Circumfrence (C)  Diameter (d)  circumfrence diameter                           6. What do you notice about the values of ?  Connect.     The circumfrence is the distance round a circle.    When you divide the circumfrence by the diameter of any circular object, the number you get is approximately correct to two decimal places.   Circumfrence     The number is called and is represented by the symbol . As a fraction, . Therefore, circumfrence     Two radii are equal to the diameter. Hence   Circumfrence      "
+  "body": "    We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumfrence of each circular object using a tapemeasure as shown alongside, Or a string if you don't have a tapemeasure and record your answer.    Use a ruler to meaaure the length of the string that is equal to the string that is equal to the circumfrence.    measure the diameter of each circular object as shown below. The distance is the diameter of each object.     measuring circumfrence     (measurind diameter)   5.Draw and fill in the table like the one shown below.      Number of Item  Object  Circumfrence (C)  Diameter (d)  circumfrence diameter    1       2       3       4        6. What do you notice about the values of ?  Connect.     The circumfrence is the distance round a circle.    When you divide the circumfrence by the diameter of any circular object, the number you get is approximately correct to two decimal places.   Circumfrence     The number is called and is represented by the symbol . As a fraction, . Therefore, circumfrence     Two radii are equal to the diameter. Hence   Circumfrence      "
 },
 {
   "id": "sec-section-Area",
@@ -898,6 +844,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "Temparature",
+<<<<<<< HEAD
   "body": " Temparature   hey   "
 },
 {
@@ -908,6 +855,9 @@ var ptx_lunr_docs = [
   "number": "4.6.1",
   "title": "",
   "body": " hey  "
+=======
+  "body": " Temparature  Why Temperature?  Have you ever heated water when making pasta? When you heat a pot of water, the temperature gradually increases. At 100°C , the water begins to boil. You need to bring water to a boil before adding the pasta. The high temperature of boiling water cooks the pasta quickly, changing its texture from hard to soft. If the water is not hot enough, the pasta will not cook properly, and if the water is too hot (in some cases), it might cause the pasta to cook unevenly. So, understanding the precise temperature helps ensure that food is prepared properly!      "
+>>>>>>> bfd8bd4ec4b0dda8682adcee46255718b14ddd91
 },
 {
   "id": "sec-section-Money",
