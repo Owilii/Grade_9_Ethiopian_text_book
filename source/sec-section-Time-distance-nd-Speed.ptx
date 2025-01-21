@@ -1233,8 +1233,11 @@
             Mark covered a distance of <m>100\,m</m> in <m>20\, seconds</m>. 
             What was his speed in metres per seconds?
           </p>
+          
+        </statement>
+        <solution>
           <p>
-            <m>Speed = \frac{distance covered}{time \, taken}</m>
+            <m>Speed = \frac{distance\, covered}{time \, taken}</m>
           </p>
           <p>
             Distance he covered <m>=100\,m</m>, Time he took <m>20 \, seconds </m>
@@ -1246,14 +1249,14 @@
             <md>
               <mrow> speed=\amp (100 \, m \div 20 \, seconds)</mrow>
               <mrow> = \amp (\frac{100}{20}) \, m/s</mrow>
-              <mrow> \=amp 5 \, m/s </mrow>
+              <mrow> =\amp 5 \, m/s </mrow>
             </md>
           </p>
           <p>
             Mark's speed is <m> 5 \, m/s </m>.
           </p>
           
-        </statement>
+        </solution>
       </example>
       <example>
         <statement>
@@ -1277,7 +1280,7 @@
           <p>
             if <md>
               <mrow> 1 \, minutes=\amp 60 \, seconds </mrow>
-              <mrow> 2\, minutes=  \amp 2\, minutes 60 \, seconds\times </mrow>
+              <mrow> 2\, minutes=  \amp 2\, minutes \times 60 \, seconds </mrow>
               <mrow>= \amp 120\, seconds</mrow>
             </md>
           </p>
