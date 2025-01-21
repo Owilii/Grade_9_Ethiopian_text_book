@@ -4,13 +4,12 @@
   <title>Length</title>
   <introduction>
       <p>
-      Why length?
+      Length in focus.
       </p>
     <sidebyside>
       <p>
-        We use length in daily life. A carpenter uses length to
-        determine the size of the furniture. A contractor, a tailor, 
-        an engineer and a navigator uses length to accomplish their tasks. 
+       Consider a tailor cutting out and doing your school unifom. He has to take your measurements using a tape measure labelled <m>\textbf {A} </m> alongside, record them down then take the fabric to make your
+        uniform , measure then cut the fabric ready to sew it to come up with a well fitting uniform for you. 
       </p>
       <image source="/length.png" width="40%">
         <shortdescription>length</shortdescription>
@@ -30,14 +29,13 @@
       <p>
         Washika wants to go up the stairs. The staircases are labelled centimetres <m>\text{(cm) }</m>, decimetres <m>\text{ (dm) }</m>,
         metres <m>\text{ (m) }</m>, Decametres <m>\text{ (Dm) }</m> and Hectometres <m>\text{ (Hm) }</m>
-         Every step he makes is equivalent to ten times the previous step .
-         from the picture above,
+         Every step he makes is equivalent to ten times the previous step from the picture above.
         
       </p>
       <ol>
-        <li>How many decimetres are there in a metr</li>
+        <li>How many decimetres are there in a metre?</li>
         <li>How many decimetres are there in a Decametre?</li>
-        <li>How many metrea are there in a Hectometre?</li>
+        <li>How many metres are there in a Hectometre?</li>
       </ol>
 
       <image source="/staircase.png" width="100%">
@@ -49,38 +47,72 @@
             Conversion of length.
         </p>
         <p>
-            To perfom the operations involving length, measurements must be of the same units.
+            <m> {\color{Magenta} \text {To perfom the operations involving length, measurements must be of the same units. }}</m>
         </p>
-        <p>
+       <sidebyside>
+             <p>
             <ol>
                 <li>
                     <p>
-                        On a ruler, count the number of <m>\text{ millimetres }</m> in <m>1\text{ cm }</m>.
+                        Collect a number of sticks and cut them according to the exact height of the staircase in your environment.
                     </p>
                 </li>
-
                 <li>
                     <p>
-                        Measure and cut  a string <m>10\text{ cm }</m> long.
+                        Measure the sticks to uniform length in my case it's <m>10\text{ cm }</m> long.
                     </p>
                     <p>
-                        <me> Note: 10\text{ cm } =1\text{ decimetre(dm) } </me>
+                        I have <m>7</m> what about you? 
                     </p>
                 </li>
-            
                 <li>
                     <p>
-                        Find the number of times it fits on a string of length <m>1 \text{ metre } </m>
+                        We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width. 
                     </p>
                 </li>
             
                 <li>
                     <p>
-                        Fill in the table below.
+                        Fill in the table below to test mastery of skills learnt from the activity...
                     </p>
                 </li>
             </ol>
         </p>
+        <image>
+        <latex-image>
+          \begin{tikzpicture}
+            \draw[thick,fill=pink](0,2) --(2,2) --(2,4) --(4,4) --(4,6) --(6,6) --(6,8) --(8,8) --(8,10) --(10,10) --(10,12) --(12,12) --(12,0) --(0,0) --(0,2);
+            \draw[-&gt;,thick,fill=blue](-0.3,0) --(-0.3,2);
+            \draw[-&gt;,thick,fill=blue](1.7,2) --(1.7,4);
+            \draw[-&gt;,thick,fill=blue](3.7,4) --(3.7,6);
+            \draw[-&gt;,thick,fill=blue](5.7,6) --(5.7,8);
+            \draw[-&gt;,thick,fill=blue](7.7,8) --(7.7,10);
+            \draw[-&gt;,thick,fill=blue](9.7,10) --(9.7,12);
+            \draw[-&gt;,thick,fill=blue](0.0,1.8) --(2,1.8);
+            \draw[-&gt;,thick,fill=blue](2.0,3.8) --(4,3.8);
+            \draw[-&gt;,thick,fill=blue](4.0,5.8) --(6,5.8);
+            \draw[-&gt;,thick,fill=blue](6.0,7.8) --(8,7.8);
+            \draw[-&gt;,thick,fill=blue](8.0,9.8) --(10,9.8);
+            \draw[-&gt;,thick,fill=blue](10.0,11.8) --(11.95,11.8);
+            \draw[-&gt;,thick,fill=blue](0,-0.2) --(12,-0.2);
+            \draw[-&gt;,thick,fill=blue](12.2,0) --(12.2,12);
+            \node at(0.8,2.3){cm};
+            \node at(2.8,4.3){dm};
+            \node at(4.8,6.3){m};
+            \node at(6.8,8.3){Dm};
+            \node at(8.8,10.3){Hm};
+            \node at(10.8,12.3){km};
+            \node at(0.3,1){10};
+            \node at(2.3,3){10};
+            \node at(4.3,5){10};
+            \node at(6.3,7){10};
+            \node at(8.3,9){10};
+            \node at(10.3,11){10};
+          \end{tikzpicture}
+        </latex-image>
+        </image>
+        </sidebyside>
+     
         <table>
           <title></title>
           <tabular  halign="center" top="medium" left="medium" bottom="medium" right="medium">
@@ -121,550 +153,123 @@
         </table>
 
        <p>
-        The standard unit for measuring length internationally is <m>\text{ Metres }.</m>
+          <m>  {\color{Magenta} \text {The standard unit for measuring length internationally is Metres.}}</m>
         </p>
         <p>
-          a. We multiply a unit by 10 to convert it to the nexr in descending order.
-          <me>\text{ Hm } \xrightarrow[] {\times 10} \text{ Dm } \xrightarrow[]{\times 10} \text{ m } \xrightarrow[]{\times 10} \text{ dm } \xrightarrow[]{\times 10}\text{ cm }</me>
+          a. We multiply a unit by <m>10</m> to convert it to the next in descending order.
+          <m>{\color{Magenta} \text{ Km } \xrightarrow[] {\times 10} \text{ Hm } \xrightarrow[] {\times 10} \text{ Dm } \xrightarrow[]{\times 10} \text{ m } \xrightarrow[]{\times 10} \text{ dm } \xrightarrow[]{\times 10}\text{ cm }}</m>
         </p>
         <p>
-          b. We divide a unit by 10 to convert it to the nexr in descending order.
-          <me>\text{ Hm } \xrightarrow[]{\div10} \text{ Dm } \xrightarrow[]{\div 10}\text{ m } \xrightarrow[]{\div 10}\text{ dm } \xrightarrow[]{\div 10}\text{ cm }</me>
+          b. We divide a unit by <m>10</m> to convert it to the next in descending order.
+          <m>{\color{Magenta} \text{ Km } \xleftarrow[]{\div10} \text{ Hm } \xleftarrow[]{\div10} \text{ Dm } \xleftarrow[]{\div 10}\text{ m } \xleftarrow[]{\div 10}\text{ dm } \xleftarrow[]{\div 10}\text{ cm }}</m>
         </p>
     </statement>
 </activity>
 <example>
 <statement>
     <p>
-       Convert <m>40\text{ m } </m> to <m>\text{ Dm } </m>
-        </p>
+       Moraa walks from home to school taking <m>40\text{ m } </m>. Convert Moraa's distance in <m>\text{km}</m>.
+    </p>
 </statement>
 <solution>
     <p>
-        <m>10 \text{ m } =1\text{ Dm }</m>
+      Since,
     </p>
     <p>
-        <m> 40 \text{ m } = {\frac{40}{10}} \text{ Dm }</m>
+      <m>1000 \text{ m } =1\text{ km }</m>
     </p>
     <p>
-        <m>=4 \text{ Dm }</m>
+      <md>
+        <mrow> 40 \text{ m }=\amp \frac{40 \cancel {m}}{1\,000\cancel{m}} \times 1\text{ km }</mrow>
+        <mrow> =\amp 0.04 \text{ km } </mrow>
+        
+      </md>
+    </p>
+    <p>
+      Moraa walks <m> 0.04 \text{ km }</m> from  home to school.
     </p>
 </solution>
 </example>
 <example>
-    <statement>
-        <p>
-            
-            Convert <m>1500 \text{ m }</m> to <m>\text{ Hm }</m> 
-        </p>
-    </statement>
-    <solution>
-        <p>
-            <m>100 \text{ m } = 1 \text{ Hm }</m>
-        </p>
-        <p>
-            <m>1500 \text{ m }= {\frac{1500}{100} \text{ Hm }}</m>
-        </p>
-        <p>
-            <m>= 15 \text{ Hm }</m>
-        </p>
-    </solution>
+  <statement>
+    <p>
+      The path from the gate to the office in 
+      Myra school is <m>40 \, m \, 450\, cm</m>. What is the distance 
+      in centimetres?
+    </p>
+  </statement>
+  <solution>
+    <p>
+      Distance is <m>40 \, \text{m} \, 450\, \text{cm}</m>. 
+    </p>
+    <p>
+      The conversion is, 
+    </p>
+    <p>
+      <m>100\,\text{cm}= 1\,\text{m}</m>
+    </p>
+    <p>
+      Therefore,
+    </p>
+    <p>
+      <md>
+        <mrow> 40 \, \text{m} \, 450\, \text{cm}=\amp (40 \times 100)\,\text{cm}+ 450\,\text{cm}</mrow>
+        <mrow> =\amp4\,000\,\text{cm} +450\,\text{cm} </mrow>
+        <mrow> = \amp 4\,450 \text{cm} </mrow>
+      </md>
+    </p>
+    <p>
+      The path from the gate to the school is <m>4\,450 \text{cm} </m>.
+    </p>
+  </solution>
 </example>
-<example>
-    <statement>
-        <p>
-            Convert <m>100\text{ Hm }</m> to <m>\text{ dm }</m>
-        </p>
-       
-    </statement>
-    <solution>
-        <p>
-            <m> 1\text{ Hm } = 1000 \text{ dm }</m>
-        </p>
-        <p>
-            <m> 100\text{ Hm } = (100 \times 1000) \text{ dm }</m>
-        </p>
-        <p>
-            <m>100,000 \text{ dm }</m>
-        </p>
-    </solution>
-</example>
-<exercise>
-    <statement>
-        <p>
-            1. Convert each of the following to <m>centimetres</m>:
-        </p>
-        <p>
-            (a) <m>40mm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10mm=1cm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10mm=1cm  </m>
-        </p>
-        <p>
-          <m>40mm =  {\frac{40}{10} cm}</m>
-        </p>
-        <p>
-            <m> = 4 cm</m>
-        </p>
-    </solution>
-    </exercise>
-    <exercise>
-        <statement>
-      <p>
-            (b) <m>500mm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10mm=1cm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10mm=1cm  </m>
-        </p>
-        <p>
-          <m>500mm =  {\frac{500}{10} cm}</m>
-        </p>
-        <p>
-            <m> = 50 cm</m>
-        </p>
-    </solution>
-</exercise>
- <!-- <exercise>
-        <statement>
-      <p>
-            (c) <m>755mm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10mm=1cm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10mm=1cm  </m>
-        </p>
-        <p>
-          <m>755mm =  {\frac{755}{10} cm}</m>
-        </p>
-        <p>
-            <m> = 75.5 cm</m>
-        </p>
-    </solution>
-</exercise>
-<exercise>
-    <statement>
-        <p>
-            2. Convert each of the following to <m>decimetres</m>:
-        </p>
-        <p>
-            (a) <m>20cm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10cm=1dm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10cm=1dm  </m>
-        </p>
-        <p>
-          <m>20cm =  {\frac{20}{10} dm}</m>
-        </p>
-        <p>
-            <m> = 2 dm</m>
-        </p>
-    </solution>
-    </exercise>
-    <exercise>
-        <statement>
-      <p>
-            (b) <m>60cm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10cm=1dm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10cm=1dm  </m>
-        </p>
-        <p>
-          <m>60cm =  {\frac{60}{10} dm}</m>
-        </p>
-        <p>
-            <m> = 6 dm</m>
-        </p>
-    </solution>
-</exercise>
- <exercise>
-        <statement>
-      <p>
-            (c) <m>200cm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10cm=1dm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10cm=1dm  </m>
-        </p>
-        <p>
-          <m>200cm =  {\frac{200}{10} dm}</m>
-        </p>
-        <p>
-            <m> = 20 dm</m>
-        </p>
-    </solution>
-</exercise>
-<exercise>
-    <statement>
-        <p>
-            3. Convert each of the following to <m>metres</m>:
-        </p>
-        <p>
-            (a) <m>50dm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10dm=1m  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10dm=1m  </m>
-        </p>
-        <p>
-          <m>50dm =  {\frac{50}{10} m}</m>
-        </p>
-        <p>
-            <m> = 5 dm</m>
-        </p>
-    </solution>
-    </exercise>
-    <exercise>
-        <statement>
-      <p>
-            (b) <m>0.5dm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10dm=1m  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10dm=1m  </m>
-        </p>
-        <p>
-          <m>0.5dm =  {\frac{5}{100} m}</m>
-        </p>
-        <p>
-            <m> = 0.05 m</m>
-        </p>
-    </solution>
-</exercise>
- <exercise>
-        <statement>
-      <p>
-            (c) <m>100dm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10dm=1m  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10dm=1m  </m>
-        </p>
-        <p>
-          <m>100dm =  {\frac{100}{10} m}</m>
-        </p>
-        <p>
-            <m> = 10 m</m>
-        </p>
-    </solution>
-</exercise>
-<exercise>
-    <statement>
-        <p>
-            4. Convert each of the following to <m>Decametres</m>:
-        </p>
-        <p>
-            (a) <m>100m</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10Dm=1m  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10Dm=1m  </m>
-        </p>
-        <p>
-          <m>100m =  {\frac{100}{10} dm}</m>
-        </p>
-        <p>
-            <m> = 10Dm</m>
-        </p>
-    </solution>
-    </exercise>
-    <exercise>
-        <statement>
-      <p>
-            (b) <m>350m</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10Dm=1m  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10Dm=1m  </m>
-        </p>
-        <p>
-          <m>350m =  {\frac{350}{10} Dm}</m>
-        </p>
-        <p>
-            <m> = 35 Dm</m>
-        </p>
-    </solution>
-</exercise>
- <exercise>
-        <statement>
-      <p>
-            (c) <m>670m</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10Dm=1m  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10Dm=1m  </m>
-        </p>
-        <p>
-          <m>670m =  {\frac{670}{10} Dm}</m>
-        </p>
-        <p>
-            <m> = 67 Dm</m>
-        </p>
-    </solution>
-</exercise>
-<exercise>
-    <statement>
-        <p>
-            5. Convert each of the following to <m>Hectometres</m>:
-        </p>
-        <p>
-            (a) <m>250Dm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10Dm=1Hm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10Dm=1Hm  </m>
-        </p>
-        <p>
-          <m>250Dm =  {\frac{250}{10} d=Hm}</m>
-        </p>
-        <p>
-            <m> = 25 Hm</m>
-        </p>
-    </solution>
-    </exercise>
-    <exercise>
-        <statement>
-      <p>
-            (b) <m>640Dm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10Dm=1Hm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10Dm=1Hm  </m>
-        </p>
-        <p>
-          <m>640Dm =  {\frac{640}{10} Hm}</m>
-        </p>
-        <p>
-            <m> = 64 Hm</m>
-        </p>
-    </solution>
-</exercise>
- <exercise>
-        <statement>
-      <p>
-            (c) <m>890Dm</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10Dm=1Hm  </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10Dm=1Hm  </m>
-        </p>
-        <p>
-          <m>890Dm =  {\frac{890}{10} Hm}</m>
-        </p>
-        <p>
-            <m> = 89 Hm</m>
-        </p>
-    </solution>
-</exercise> -->
-<example>
-    <statement>
-        <p>
-            6. Convert each of the following to <m>\text{ Kilometres }</m>:
-        </p>
-        <p>
-            (a) <m>350\text{ Hm }</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10\text{ Hm }=1\text{ km } </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10\text{ Hm }=1\text{ km } </m>
-        </p>
-        <p>
-          <m>350\text{ Hm }=  {\frac{350}{10} \text{ km }}</m>
-        </p>
-        <p>
-            <m> = 35 \text{ km }</m>
-        </p>
-    </solution>
-    </example>
-    <example>
-        <statement>
-      <p>
-            (b) <m>240\text{ Hm }</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10\text{ Hm }=1\text{ km } </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10\text{ Hm }=1\text{ km } </m>
-        </p>
-        <p>
-          <m>240\text{ Hm }=  {\frac{240}{10} \text {km} }</m>
-        </p>
-        <p>
-            <m> = 24 \text{ km }</m>
-        </p>
-    </solution>
-</example>
- <example>
-        <statement>
-      <p>
-            (c) <m>96\text{ Hm }</m>
-        </p>
-        
-    </statement>
-    <hint>
-        <p>
-          <m>10\text{ Hm }=1\text{ km } </m>  
-        </p>
-    </hint>
-    <solution>
-        <p>
-          <m>10\text{ Hm }=1\text{ km } </m>
-        </p>
-        <p>
-          <m>960\text{ Hm } =  {\frac{960}{10} \text{ km}}</m>
-        </p>
-        <p>
-            <m> = 96 \text{ km }</m>
-        </p>
-    </solution>
- </example>
 </subsection>
 
   <subsection xml:id="subsec-Addition-and-Subraction-of-units-of-length">
     <title>Addition and Subraction of units of length</title>
     <activity>
+    
       <statement>
-        <p>
-          Using a tapemeasure.
+        <sidebyside>
+          <p>
           <ul>
             <li>
               <p>
-                measure the distance from the classroom door to flagpost
+                Work in groups using a 30cm ruler.
               </p>
             </li>
             <li>
               <p>
-                measure the distance from flagpost to the staffroom.
+                Measure the width of your classroom window.
               </p>
             </li>
             <li>
               <p>
-                Find the total distance measured.
+                Measure the distance from door to the furthest corner of your classsroom.
+              </p>
+            </li>
+            <li>
+              <p>
+                What do you notice about the width of the windows and the door?
+              </p>
+            </li>
+            <li>
+              <p>
+                They are smaller than the wall measurement.
+              </p>
+            </li>
+            <li>
+              <p>
+                Take the total length of all walls and subtract the width of windows and classroom door and note down.
               </p>
             </li>
           </ul>
         </p>
+        <image source="/ruler.png">
+          <shortdescription>(Measuring length)</shortdescription>
+        </image>
+        </sidebyside>
+        
       </statement>
     </activity>
     <example>
@@ -852,18 +457,42 @@
   <title>Multiplication involving units of length</title>
   <activity>
     <statement>
-      <p>
-        Prepare a number of sticks of the same length
+      <sidebyside>
+      <ol>
+        <li>
+          <p>
+            Take the number of steps in our staircase and multiply by the height and you will have the total height without measuring the like in the case of my continuos arrow labelled <m>\text {h}</m>
       </p>
-      <p>
-        place them end to end.
-      </p>
-      <p>
-        Measure their total length.
-      </p>
-      <p>
-        Relate the length of each stick to the total length.
-      </p>
+        </li>
+        <li>
+          <p>
+            Measure their total length and width.
+          </p>
+        </li>
+      </ol>      
+      <image>
+      <latex-image>
+        \begin{tikzpicture}
+          \draw[thick,fill=white](0,2) --(2,2) --(2,4) --(4,4) --(4,6) --(6,6) --(6,8) --(8,8) --(8,10) --(10,10) --(10,12) --(12,12) --(12,0) --(0,0) --(0,2);
+          \draw[-&gt;,thick,fill=white](-0.3,0) --(-0.3,2);
+          \draw[-&gt;,thick,fill=white](1.7,2) --(1.7,4);
+          \draw[-&gt;,thick,fill=white](3.7,4) --(3.7,6);
+          \draw[-&gt;,thick,fill=white](5.7,6) --(5.7,8);
+          \draw[-&gt;,thick,fill=white](7.7,8) --(7.7,10);
+          \draw[-&gt;,thick,fill=white](9.7,10) --(9.7,12);
+          \draw[-&gt;,thick,fill=white](0.0,1.8) --(2,1.8);
+          \draw[-&gt;,thick,fill=white](2.0,3.8) --(4,3.8);
+          \draw[-&gt;,thick,fill=white](4.0,5.8) --(6,5.8);
+          \draw[-&gt;,thick,fill=white](6.0,7.8) --(8,7.8);
+          \draw[-&gt;,thick,fill=white](8.0,9.8) --(10,9.8);
+          \draw[-&gt;,thick,fill=white](10.0,11.8) --(11.95,11.8);
+          \draw[-&gt;,thick,fill=white](0,-0.2) --(12,-0.2);
+          \draw[-&gt;,thick,fill=white](12.2,0) --(12.2,12);
+          \node at(12,5){h};
+        \end{tikzpicture}
+      </latex-image>
+      </image>
+      </sidebyside>
     </statement>
   </activity>
   <example>
@@ -1011,7 +640,7 @@
           </li>
           <li>
             <p>
-              Relate the length of each string to tha of the original string.
+              Relate the length of each string to that of the original string.
             </p>
           </li>
         </ul>
@@ -1336,7 +965,7 @@
     <p>Extended activity</p>
       <sidebyside>
       <p>
-        Johnluck made a paper cut out of right-angled triangle like the one shown on the right.
+        ombui made a paper cut out of right-angled triangle like the one shown on the right.
         He then made three similar cut outs then joined them as shown below to form a combined
          cut-out. work out the perimeter  of the combined cut
       </p>
@@ -1408,6 +1037,7 @@
       <title></title>
       <tabular halign="left" top="medium" bottom="medium" left="medium" right="medium">
         <row header="yes">
+          <cell>Number of Item</cell>
           <cell>Object</cell>
           <cell> Circumfrence (C)</cell>
           <cell>Diameter (d)</cell>
@@ -1415,22 +1045,28 @@
           
         </row>
         <row >
-          <cell></cell>
-          <cell></cell>
-          <cell></cell>
-          <cell></cell>
-        </row>
-        <row>
-          <cell></cell>
+          <cell>1</cell>
           <cell></cell>
           <cell></cell>
           <cell></cell>
         </row>
         <row>
-          <cell> </cell>
-          <cell> </cell>
-          <cell> </cell>
-          <cell> </cell>
+          <cell>2</cell>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>3</cell>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>4</cell>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
         </row>
       </tabular>
     </table>
@@ -1479,7 +1115,6 @@
           </p>
         </li>
       </ul>
-      
     </p>
   </activity>
 </subsection>
