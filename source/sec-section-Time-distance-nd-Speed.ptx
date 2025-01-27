@@ -1282,7 +1282,7 @@
           <p>
             if <md>
               <mrow> 1 \, minutes=\amp 60 \, seconds </mrow>
-              <mrow> 2\, minutes=  \amp 2\, minutes 60 \, seconds\times </mrow>
+              <mrow> 2\, minutes=  \amp 2\, minutes  \times  60 \, seconds</mrow>
               <mrow>= \amp 120\, seconds</mrow>
             </md>
           </p>

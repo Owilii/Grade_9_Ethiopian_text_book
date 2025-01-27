@@ -565,21 +565,21 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.5",
   "title": "Time,Distance and speed",
-  "body": " Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time    Note:    time      Time is measured in seconds, minuites and hours.  Therefore, , and are the units of measurering time.        What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is       Moraa recorded the time she spent during a morning run exercise.   Exe2   For how long did he run?    Moraa ran for .     Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   hour  minutes.   Work in pairs.      Whate you need.  razer blade,manniler paper(white and yellow), black maker pen,a wire and a pair of campus.   Make a clock face like the one shown alongside using a paper cut out.  Move the minute hand clockwise to make a complete turn.  How many minutes does the minuite hand cover in one complete turn?  Observe how the hour hand moves when the minute hand make one complete turn. What have you noticed?  Share your findings with other learners in class.     Clock    Learning point.  From the above activity you should notice that;   hour  minutes.     Convert hours    Conversion of hours to minutes, we use the conversion units that is .       Therefore,         How many minuites are the in hours?          Therefore,         A motorist took to travel from Kilifi to Machakos. How many minutes did he take during the travel?    Hours he took was   To convert the hours taken to minuites, use   Therefore,     The minutes taken for the travel is       Converting minutes into hours  As discused before that . it's clear to see also that .   Work in groups.     Grade 7 learners recorded the time they spent doing various activities during their leisure time.    Name  Activity  Time taken in minutes  Time taken in hours    Moraa  Running  120     Akinyi  Playing football  90     Ekadeli  Reading story books  60      Why should we engage in positive leisure activity?  Fill in the table to show the time spent by each learner in hours.  Share your work with other learners in class.       A bus took to travel from Kisumu to Nairobi. What time did it take in hours and minutes?    The bus took   Note that,          9 hours    60  560      -540     20 mins     The bus took to travel from Kisumu to Nairobi.      Converting minutes into seconds  The statment for conversion states that,   .       Using a stopwatch or a rist watch or a clock watch, observe and record the number of seconds in the following minutes.    Minutes  Seconds    1 minute     3 minutes     5 minutes     10 minutes      How many seconds are there in a minutes?  Share your findings with other learners in class.         a) .Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).         Converting second into minutes.  Converting seconds into minutes depend on the previous sub-topic.  Notice that,        Using a stopwatch or a rist watch or a clock watch, observe and record the number of minutes in the following seconds.    Seconds  Minutes    60 seconds     120 seconds     180 seconds     240 seconds     300 seconds      Share your work with other learners in class.        A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took       Converting hours into seconds  By the conversion above for minutes to hours,seconds to minutes,etc,  Convertion of hours to second, use .    Convert to seconds.    if , Therefore,            Morara covered a certain distance in . How long did the journey take in seconds?    If , therefore,     The journey took .      Converting second into hours  As stated earlier that,   It also implies that, .   Work in groups of 4     Fill in the table below. You may use a calculator to work out the division.    Seconds  Minutes  Hours                          Share your answer with other learners in your class.        Convert into hours.    If       .      Baya spent seconds washing clothes. How much time did he spend in hours?       Therefore,  Baya spent washing clothes.       Units of measuring distance.   Distance is the length of the space between two points. eg  Distance from the grade 7 classroom and the assembly, home to school, assembly to your school latrine and etc.  The SI unit of measuring distance is .     Kilometres can be written as .    Metres can also be written .       Converting kilometres into metres  The conversions are as follows;     Similarly       The distance from Jerald's home to the school is . He walks to school and back every day. How many metres does he walk every day?    Estimate the following distances in kilommetres and convert the estimated distance to metres.     Description  Estimated distance in kilometres  Estimated distance in metres    a)  The distance from the school to the nearest shopping centure.      b)  The distance from the classroom to the assembly ground.      c)  The distance from the school to the nearest police station.        Share your work with other learners in your class.        Convert to metres.    If   Therefore,     Therefore,       Josphat cycled for . How many metres did he cycle?       Josephat cycled for .      The distance from Owilli's home to school is . How many metres is the school away from Owili's home?       The distance from Owili's home to the school is .      Converting metres to kilometres.  As discussed above, the conversion of metres to kilometres is,    Work in groups.     Grade 7 learners made the number cards below.                          Convert each of the above distance into kilometres  Hint: .    Share your work with other learners in class.        Convert to kilometres.    Using the conversion formula that outlines, .     Therefore,         During a sports day, Murunga ran a distance of . What distance did he cover in kilometres?       Murunga coverd .       Speed  Speed - is the total distance covered over the time taken in any activity done.  The SI unit of measuring speed is kilometres per hour( ) or metres per second( ).   Speed in kilometres per hour (km\/h).  Speed is measured in .   Work in groups  Go outside the classroom to the school's athletics field.     Take a walk outside the classroom and go to an athletics field.   (field)   One lap on the athletic field is     Walk round the field one lap and record the time you take.    Run round the field once and record the time you take.    Run round the field two times and record the time you take.    Run round the field three times and record the time you take.    Fill the table below.     Description  Distance in  Time taken in hours      a)  Walking round the field once       b)  Running round the field       c)  Running round the field twice       d)  Running round the field thrice         Share your work with other learners in your class.      LEARNING POINT      Speed is expressed in terms of distance covered per unit time.    Speed can either be expressed in kilometres per hour ( ) or metres per second ( ).       A truck travelled a distance of in . What was its speed in kilometres per hour?       The speed for the truck is, .      Akinyi walked a distance of in . What was her speed in        Her speed was       Speed in metres per-second(m\/s)  Speed can also be expressed in metres per second( ).   Work in groups     Take a walk outside the classroom.   Mark a distancde of in the field.  Take turns to run the .  Use a stopwatch to record the time taken by each learner in the group   Fill in the table below.     Name of the learner  Distance in metres  Time taken in sedconds     a)        b)        c)          Share your work with other learners in your class.        Mark covered a distance of in . What was his speed in metres per seconds?       Distance he covered , Time he took   Therefore,     Mark's speed is .      A cyclist covered a distance of in . What was his speed in ?    Convert        Converting to seconds  if         "
+  "body": " Time,Distance and speed   Time,Distance and speed  Why time, distance and speed.      We use time, distance and speed in our daily life.    Time helps us to plan our day-to-day activities.Knowing distance helps us to plan when emberking on a journey. Speed helps us to determine how long we would take to cover a certain distance.      Time    Note:    time      Time is measured in seconds, minuites and hours.  Therefore, , and are the units of measurering time.        What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is       Moraa recorded the time she spent during a morning run exercise.   Exe2   For how long did he run?    Moraa ran for .      Units of measuring time   Units of mesurering time are;     Minutes    Hours    Seconds       Convertin hours to minutes   hour  minutes.   Work in pairs.      Whate you need.  razer blade,manniler paper(white and yellow), black maker pen,a wire and a pair of campus.   Make a clock face like the one shown alongside using a paper cut out.  Move the minute hand clockwise to make a complete turn.  How many minutes does the minuite hand cover in one complete turn?  Observe how the hour hand moves when the minute hand make one complete turn. What have you noticed?  Share your findings with other learners in class.     Clock    Learning point.  From the above activity you should notice that;   hour  minutes.     Convert hours    Conversion of hours to minutes, we use the conversion units that is .       Therefore,         How many minuites are the in hours?          Therefore,         A motorist took to travel from Kilifi to Machakos. How many minutes did he take during the travel?    Hours he took was   To convert the hours taken to minuites, use   Therefore,     The minutes taken for the travel is       Converting minutes into hours  As discused before that . it's clear to see also that .   Work in groups.     Grade 7 learners recorded the time they spent doing various activities during their leisure time.    Name  Activity  Time taken in minutes  Time taken in hours    Moraa  Running  120     Akinyi  Playing football  90     Ekadeli  Reading story books  60      Why should we engage in positive leisure activity?  Fill in the table to show the time spent by each learner in hours.  Share your work with other learners in class.       A bus took to travel from Kisumu to Nairobi. What time did it take in hours and minutes?    The bus took   Note that,          9 hours    60  560      -540     20 mins     The bus took to travel from Kisumu to Nairobi.      Converting minutes into seconds  The statment for conversion states that,   .       Using a stopwatch or a rist watch or a clock watch, observe and record the number of seconds in the following minutes.    Minutes  Seconds    1 minute     3 minutes     5 minutes     10 minutes      How many seconds are there in a minutes?  Share your findings with other learners in class.         a).Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).         Converting second into minutes.  Converting seconds into minutes depend on the previous sub-topic.  Notice that,        Using a stopwatch or a rist watch or a clock watch, observe and record the number of minutes in the following seconds.    Seconds  Minutes    60 seconds     120 seconds     180 seconds     240 seconds     300 seconds      Share your work with other learners in class.        A digital game took . How long did the digital game take in munites and seconds?           3 minutes    60  200      -180     20 seconds     Therefore,  The digital game took       Converting hours into seconds  By the conversion above for minutes to hours,seconds to minutes,etc,  Convertion of hours to second, use .    Convert to seconds.    if , Therefore,            Morara covered a certain distance in . How long did the journey take in seconds?    If , therefore,     The journey took .      Converting second into hours  As stated earlier that,   It also implies that, .   Work in groups of 4     Fill in the table below. You may use a calculator to work out the division.    Seconds  Minutes  Hours                          Share your answer with other learners in your class.        Convert into hours.    If       .      Baya spent seconds washing clothes. How much time did he spend in hours?       Therefore,  Baya spent washing clothes.       Units of measuring distance.   Distance is the length of the space between two points. eg  Distance from the grade 7 classroom and the assembly, home to school, assembly to your school latrine and etc.  The SI unit of measuring distance is .     Kilometres can be written as .    Metres can also be written .       Converting kilometres into metres  The conversions are as follows;     Similarly       The distance from Jerald's home to the school is . He walks to school and back every day. How many metres does he walk every day?    Estimate the following distances in kilommetres and convert the estimated distance to metres.     Description  Estimated distance in kilometres  Estimated distance in metres    a)  The distance from the school to the nearest shopping centure.      b)  The distance from the classroom to the assembly ground.      c)  The distance from the school to the nearest police station.        Share your work with other learners in your class.        Convert to metres.    If   Therefore,     Therefore,       Josphat cycled for . How many metres did he cycle?       Josephat cycled for .      The distance from Owilli's home to school is . How many metres is the school away from Owili's home?       The distance from Owili's home to the school is .      Converting metres to kilometres.  As discussed above, the conversion of metres to kilometres is,    Work in groups.     Grade 7 learners made the number cards below.                          Convert each of the above distance into kilometres  Hint: .    Share your work with other learners in class.        Convert to kilometres.    Using the conversion formula that outlines, .     Therefore,         During a sports day, Murunga ran a distance of . What distance did he cover in kilometres?       Murunga coverd .       Speed   Speed - is the total distance covered over the time taken in any activity done.  The SI unit of measuring speed is kilometres per hour( ) or metres per second( ).    Speed in kilometres per hour (km\/h).  Speed is measured in .   Work in groups  Go outside the classroom to the school's athletics field.     Take a walk outside the classroom and go to an athletics field.   (field)   One lap on the athletic field is     Walk round the field one lap and record the time you take.    Run round the field once and record the time you take.    Run round the field two times and record the time you take.    Run round the field three times and record the time you take.    Fill the table below.     Description  Distance in  Time taken in hours      a)  Walking round the field once       b)  Running round the field       c)  Running round the field twice       d)  Running round the field thrice         Share your work with other learners in your class.      LEARNING POINT      Speed is expressed in terms of distance covered per unit time.    Speed can either be expressed in kilometres per hour ( ) or metres per second ( ).       A truck travelled a distance of in . What was its speed in kilometres per hour?       The speed for the truck is, .      Akinyi walked a distance of in . What was her speed in        Her speed was       Speed in metres per-second(m\/s)  Speed can also be expressed in metres per second( ).   Work in groups     Take a walk outside the classroom.   Mark a distancde of in the field.  Take turns to run the .  Use a stopwatch to record the time taken by each learner in the group   Fill in the table below.     Name of the learner  Distance in metres  Time taken in sedconds     a)        b)        c)          Share your work with other learners in your class.        Mark covered a distance of in . What was his speed in metres per seconds?     Distance he covered , Time he took   Therefore,     Mark's speed is .      A cyclist covered a distance of in . What was his speed in ?    Convert        Converting to seconds  if         "
 },
 {
-  "id": "sec-section-Time-Distance-and-speed-6",
+  "id": "Time-Distance-and-speed-6",
   "level": "2",
-  "url": "sec-section-Time-Distance-and-speed.html#sec-section-Time-Distance-and-speed-6",
+  "url": "sec-section-Time-Distance-and-speed.html#Time-Distance-and-speed-6",
   "type": "Example",
   "number": "4.5.1",
   "title": "",
   "body": "  What is the time on the clock face below?       The hour hand points at . The minute hand point at .  The time is    "
 },
 {
-  "id": "sec-section-Time-Distance-and-speed-7",
+  "id": "Time-Distance-and-speed-7",
   "level": "2",
-  "url": "sec-section-Time-Distance-and-speed.html#sec-section-Time-Distance-and-speed-7",
+  "url": "sec-section-Time-Distance-and-speed.html#Time-Distance-and-speed-7",
   "type": "Example",
   "number": "4.5.2",
   "title": "",
@@ -655,7 +655,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.5.7",
   "title": "",
-  "body": "   a) .Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).      "
+  "body": "   a).Convert into seconds.  b). Owilii took to walk from the classroom to the school gate. How nuch time did she take in seconds to reach the school gate?     a).     b).      "
 },
 {
   "id": "subsubsec-Converting-second-into-minutes-4",
@@ -826,7 +826,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.5.20",
   "title": "",
-  "body": "  Mark covered a distance of in . What was his speed in metres per seconds?       Distance he covered , Time he took   Therefore,     Mark's speed is .   "
+  "body": "  Mark covered a distance of in . What was his speed in metres per seconds?     Distance he covered , Time he took   Therefore,     Mark's speed is .   "
 },
 {
   "id": "subsubsec-Speed-in-metres-per-second-5",
@@ -844,7 +844,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.6",
   "title": "Temparature",
-  "body": " Temparature  Why Temperature?  Have you ever heated water when making pasta? When you heat a pot of water, the temperature gradually increases. At 100°C , the water begins to boil. You need to bring water to a boil before adding the pasta. The high temperature of boiling water cooks the pasta quickly, changing its texture from hard to soft. If the water is not hot enough, the pasta will not cook properly, and if the water is too hot (in some cases), it might cause the pasta to cook unevenly. So, understanding the precise temperature helps ensure that food is prepared properly!      "
+  "body": " Temparature  Why Temperature?  Have you ever heated water when making pasta? When you heat a pot of water, the temperature gradually increases. At 100°C , the water begins to boil. You need to bring water to a boil before adding the pasta. The high temperature of boiling water cooks the pasta quickly, changing its texture from hard to soft. If the water is not hot enough, the pasta will not cook properly, and if the water is too hot (in some cases), it might cause the pasta to cook unevenly. So, understanding the precise temperature helps ensure that food is prepared properly!       "
+},
+{
+  "id": "sec-section-Temparature-4",
+  "level": "2",
+  "url": "sec-section-Temparature.html#sec-section-Temparature-4",
+  "type": "Checkpoint",
+  "number": "4.6.1",
+  "title": "",
+  "body": "    "
 },
 {
   "id": "sec-section-Money",
@@ -853,16 +862,124 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.7",
   "title": "Money",
-  "body": " Money      "
+  "body": " Money   Money is anything that is generally accepted as a medium of exchange for goods and services. It is the medium in which prices and values are expressed. Money circulates anonymously from person to person and country to country, thus facilitating trade, and it is the principal measure of wealth.  Money can be expressed in diffrent currencies eg     kenyan currency that is     United state currency that is and many more.     In your school,church, home and the market places people use money to;  Buy clothes, Pay school fees, buy food, pay expences at home and many more. Therefore money has a broad usein the environment you are situated.  When bying or selling of any comodity losses and profits may acrue and it is important to be in a position to find and calculate such loses and profits.  In this topic will concentrate on how we can calculate transactions made by the use of money.    Profit   Businesses can make profits or losses. To understand the concepts of profit and loss, we will define some terms.     Cost price ( ) or Buying price ( ). This is the price at which the business man\/woman buys an item.   Selling price (S.P). This is the price at which a business man sells an item.    If the selling price is greater than the buying price, the business makes profit.  Therefore,   .         Role-play shopping activities using the classroom shop.   One learner to be the seller while the rest be the buyers.  Take turns for each learner to role-play as the shopkeeper.  Buy and sell items from the clasroom shop using paper money.  Work out the profit made on the sale of each item.            Ekadeli owns a shop in Lusweti town. The table below shows the buying price and selling price in her shop.    Items  Buying Price ( )  Selling Price ( )  Profit    Tea leavs       of rice       of sugar       pages exercise book        Compare the buying and the selling price of each item. Which one is higher?  Complete the table by working out the profit.  Share your work with other learners in your class.          Profit is made when the selling price is heigher than the buying price.           Okoth bought a book for He later sold the book for How much profit did she make?    From the question,  Buying price   Selling price      Okoth made a profit of .      Odhiambo bought a goat for . He later sold the goat, making a profit of . What was the selling price of the goat?    Buying price   profit      Selling price of the goat is       Percentage profit.  Percentage profit acrues when the selling price is heigher than the buying price.  It is expressed as a persentage ( ).  After the calculation of the profit, the salse person is requred to find the percentage profit that was established during the buying and selling of a perticular comodity or good.         Draw a table similar to the one shown below.     Buying price (BP)  Selling price(SP)  Profit(P)  Percentage profit    a)        b)        c)        d)         Work out the difference between the selling price and the buying price. Fill in the profit column.  Work out the percentage profit.  Share your work with other leaners in your cclass.           Ekadeli bought a shirt for . He later sold the shirt for . What percentage profit did Ekadeli make?    1. Identify the profit first.  2. Use the profit to get the percentage profit( ).    The buying price   The selling price         She made a percentage profit of .      Mwai bought a book for . He later sold the book making a profit. How much did he sell the book?       The buying price   Perentage profit   Note that, Buying price is equivalent to .  Therefor the profit is gotten as,              The selling price of the book was .       Loss.   If the selling price is lower than the buying price, the business makes a loss.  Therefore,          Look at the table below.    Buying price ( )  Selling price ( )  Loss( )                         Compare the buying and the selling price in each row. Which one is higher?  Complete the table above by working out the difference between the buying price and the selling price.  Discuss what could make the trader sell his or her goods at a lower price than the buying price.  Share your answers with other learners in class.             Kastro bought a bicycle for . H leter sold it for . How much loss did he make?    Buying price of the bicycle .  Selling price .     The loss he made was .      Martha bought a Mathematics text book for . She later sold the textbook making a loss of . How much did she sell the textbook?    The buying price   The loss made      The textook was sold for .      Percentage loss.  Percentage loss acrues when the salse person make a loss and may deside to convert the loss into percentage loss.  Percentage loss is that loss divided by the buying price then multiplyed by .   .      Draw the table similar to the one     Buying price (BP)  Selling price(SP)  Loss(L)  Percentage loss    a)        b)        c)        d)         Work out the difference between the buying price and the selling price. Fill in the loss column.  Work out the percentage loss.  Share your work with other learners in class.             Jerald bought a matress for . She later sold the matress for . What percentage loss did she make?    1. find the loss he made when selling the matress.  2. Use the loss to identify the percentage loss.    Item bought and sold is matress .  The buying price is .  The selling price is .     The percentage loss she made was .      Harriet bought a dress for . She sold the dress making a percentage loss of . How much did she sell the dress?       The dress was bought for   Making a loss interms of percentage as .  Therefore we can obtain loss as,     Therefore selling price can be obtained having gotten the loss as            The selling price of the dress was        Discount   is the amount of money deducted from the marked price.   "
 },
 {
-  "id": "sec-section-Money-2",
+  "id": "subsec-Profit-2-6",
   "level": "2",
-  "url": "sec-section-Money.html#sec-section-Money-2",
-  "type": "Checkpoint",
+  "url": "sec-section-Money.html#subsec-Profit-2-6",
+  "type": "Activity",
   "number": "4.7.1",
   "title": "",
-  "body": "   "
+  "body": "       Role-play shopping activities using the classroom shop.   One learner to be the seller while the rest be the buyers.  Take turns for each learner to role-play as the shopkeeper.  Buy and sell items from the clasroom shop using paper money.  Work out the profit made on the sale of each item.    "
+},
+{
+  "id": "subsec-Profit-2-7",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Profit-2-7",
+  "type": "Activity",
+  "number": "4.7.2",
+  "title": "",
+  "body": "       Ekadeli owns a shop in Lusweti town. The table below shows the buying price and selling price in her shop.    Items  Buying Price ( )  Selling Price ( )  Profit    Tea leavs       of rice       of sugar       pages exercise book        Compare the buying and the selling price of each item. Which one is higher?  Complete the table by working out the profit.  Share your work with other learners in your class.          Profit is made when the selling price is heigher than the buying price.        "
+},
+{
+  "id": "subsec-Profit-2-8",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Profit-2-8",
+  "type": "Example",
+  "number": "4.7.1",
+  "title": "",
+  "body": "  Okoth bought a book for He later sold the book for How much profit did she make?    From the question,  Buying price   Selling price      Okoth made a profit of .   "
+},
+{
+  "id": "subsec-Profit-2-9",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Profit-2-9",
+  "type": "Example",
+  "number": "4.7.2",
+  "title": "",
+  "body": "  Odhiambo bought a goat for . He later sold the goat, making a profit of . What was the selling price of the goat?    Buying price   profit      Selling price of the goat is    "
+},
+{
+  "id": "subsec-Percentage-profit-5",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Percentage-profit-5",
+  "type": "Activity",
+  "number": "4.7.3",
+  "title": "",
+  "body": "       Draw a table similar to the one shown below.     Buying price (BP)  Selling price(SP)  Profit(P)  Percentage profit    a)        b)        c)        d)         Work out the difference between the selling price and the buying price. Fill in the profit column.  Work out the percentage profit.  Share your work with other leaners in your cclass.        "
+},
+{
+  "id": "subsec-Percentage-profit-6",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Percentage-profit-6",
+  "type": "Example",
+  "number": "4.7.3",
+  "title": "",
+  "body": "  Ekadeli bought a shirt for . He later sold the shirt for . What percentage profit did Ekadeli make?    1. Identify the profit first.  2. Use the profit to get the percentage profit( ).    The buying price   The selling price         She made a percentage profit of .   "
+},
+{
+  "id": "subsec-Percentage-profit-7",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Percentage-profit-7",
+  "type": "Example",
+  "number": "4.7.4",
+  "title": "",
+  "body": "  Mwai bought a book for . He later sold the book making a profit. How much did he sell the book?       The buying price   Perentage profit   Note that, Buying price is equivalent to .  Therefor the profit is gotten as,              The selling price of the book was .   "
+},
+{
+  "id": "subsec-Loss-2-3",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Loss-2-3",
+  "type": "Activity",
+  "number": "4.7.4",
+  "title": "",
+  "body": "       Look at the table below.    Buying price ( )  Selling price ( )  Loss( )                         Compare the buying and the selling price in each row. Which one is higher?  Complete the table above by working out the difference between the buying price and the selling price.  Discuss what could make the trader sell his or her goods at a lower price than the buying price.  Share your answers with other learners in class.          "
+},
+{
+  "id": "subsec-Loss-2-4",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Loss-2-4",
+  "type": "Example",
+  "number": "4.7.5",
+  "title": "",
+  "body": "  Kastro bought a bicycle for . H leter sold it for . How much loss did he make?    Buying price of the bicycle .  Selling price .     The loss he made was .   "
+},
+{
+  "id": "subsec-Loss-2-5",
+  "level": "2",
+  "url": "sec-section-Money.html#subsec-Loss-2-5",
+  "type": "Example",
+  "number": "4.7.6",
+  "title": "",
+  "body": "  Martha bought a Mathematics text book for . She later sold the textbook making a loss of . How much did she sell the textbook?    The buying price   The loss made      The textook was sold for .   "
+},
+{
+  "id": "subsubsec-Percentage-loss-5",
+  "level": "2",
+  "url": "sec-section-Money.html#subsubsec-Percentage-loss-5",
+  "type": "Activity",
+  "number": "4.7.5",
+  "title": "",
+  "body": "    Draw the table similar to the one     Buying price (BP)  Selling price(SP)  Loss(L)  Percentage loss    a)        b)        c)        d)         Work out the difference between the buying price and the selling price. Fill in the loss column.  Work out the percentage loss.  Share your work with other learners in class.          "
+},
+{
+  "id": "subsubsec-Percentage-loss-6",
+  "level": "2",
+  "url": "sec-section-Money.html#subsubsec-Percentage-loss-6",
+  "type": "Example",
+  "number": "4.7.7",
+  "title": "",
+  "body": "  Jerald bought a matress for . She later sold the matress for . What percentage loss did she make?    1. find the loss he made when selling the matress.  2. Use the loss to identify the percentage loss.    Item bought and sold is matress .  The buying price is .  The selling price is .     The percentage loss she made was .   "
+},
+{
+  "id": "subsubsec-Percentage-loss-7",
+  "level": "2",
+  "url": "sec-section-Money.html#subsubsec-Percentage-loss-7",
+  "type": "Example",
+  "number": "4.7.8",
+  "title": "",
+  "body": "  Harriet bought a dress for . She sold the dress making a percentage loss of . How much did she sell the dress?       The dress was bought for   Making a loss interms of percentage as .  Therefore we can obtain loss as,     Therefore selling price can be obtained having gotten the loss as            The selling price of the dress was    "
 },
 {
   "id": "backmatter-2",
