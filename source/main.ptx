@@ -11,18 +11,12 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
 
-
-    <!-- Include chapters -->
-    <xi:include href="./ch-chapter-two.ptx" />
-
-    <!-- Include chapters -->
-    <xi:include href="./ch-chapter-Three.ptx" />
 
     <!-- Include chapters -->
     <xi:include href="./ch-chapter-Measurements.ptx" />
+
+
 
 
 
