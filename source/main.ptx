@@ -14,7 +14,7 @@
 
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-Measurements.ptx" />
+    <xi:include href="measurements/ch-chapter-Measurements.ptx" />
 
 
 

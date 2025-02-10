@@ -8,25 +8,25 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-pythagorean-relationship.ptx" />
+  <xi:include href="sections/sec-section-pythagorean-relationship.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sec-section-Length.ptx" />
+  <xi:include href="sections/sec-section-Length.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sec-section-Area.ptx" />
+  <xi:include href="sections/sec-section-Area.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sec-section-Volume-and-Capacity.ptx" />
+  <xi:include href="sections/sec-section-Volume-and-Capacity.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sec-section-Time-distance-nd-Speed.ptx" />
+  <xi:include href="sections/sec-section-Time-distance-nd-Speed.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sec-section-Tempareture.ptx" />
+  <xi:include href="sections/sec-section-Tempareture.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sec-section-Money.ptx" />
+  <xi:include href="sections/sec-section-Money.ptx" />
 
 
 
