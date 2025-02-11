@@ -23,7 +23,7 @@
   <xi:include href="sections/sec-section-Time-distance-nd-Speed.ptx" />
 
   <!-- include sections -->
-  <xi:include href="sections/sec-section-Tempareture.ptx" />
+  <xi:include href="sections/sec-section-Temperature.ptx" />
 
   <!-- include sections -->
   <xi:include href="sections/sec-section-Money.ptx" />

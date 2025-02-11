@@ -1394,38 +1394,40 @@
 
     <subsubsection xml:id="subsubsec-Preparing-bills">
       <title>Preparing bills</title>
-      <p>
-        Work in groups
-      </p>
-      <p>
-        Read the story below.
-      </p>
-      <p>
-        <ul>
-          <li>
-            <p>
-              Gillian bought the following items from a kiosk:
-            </p>
-            <p><m>2\,kg</m> of sugar at <m>sh\,120</m> per kilogram</p>
-            <p><m>2</m> loaves of bread at <m>sh\, 50</m> per loaf</p>
-            <p><m>5</m> packets of milk at <m>sh\, 50</m> per packet</p>
-            <p><m>3</m> packets of salt at <m>sh\, 20</m> per packet.</p>
-            <p>She paid for the items using a thousand shillings note.</p>
-          </li>
-        </ul>
-      </p>
-      <p>
-        <ol>
-          <li>
-            <p>
-              Prepare Gillian's bill.
-            </p>
-          </li>
-          <li>How much did she pay for the items?</li>
-          <li>How much balance did she get?</li>
-          <li>Share your work with other learners in class.</li>
-        </ol>
-      </p>
+      <activity>
+        <p>
+         Work in groups
+        </p>
+        <p>
+          Read the story below.
+        </p>
+        <p>
+          <ul>
+            <li>
+              <p>
+                Gillian bought the following items from a kiosk:
+              </p>
+              <p><m>2\,kg</m> of sugar at <m>sh\,120</m> per kilogram</p>
+              <p><m>2</m> loaves of bread at <m>sh\, 50</m> per loaf</p>
+              <p><m>5</m> packets of milk at <m>sh\, 50</m> per packet</p>
+              <p><m>3</m> packets of salt at <m>sh\, 20</m> per packet.</p>
+              <p>She paid for the items using a thousand shillings note.</p>
+            </li>
+          </ul>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                Prepare Gillian's bill.
+              </p>
+            </li>
+            <li>How much did she pay for the items?</li>
+            <li>How much balance did she get?</li>
+            <li>Share your work with other learners in class.</li>
+          </ol>
+        </p>
+      </activity>
 
       <p>
         <m> {\color{blue} \text{Learning point }}</m>
@@ -1462,11 +1464,61 @@
         </statement>
         <solution>
           <p>
-            
+            <m> {\color{blue} \text{a) The bill for the item he bought.}}</m> 
+          </p>
+          <tabular halign="left"  top="medium" right="medium" left="medium" >
+            <row header="yes" bottom="medium">
+              <cell>Items</cell>
+              <cell><m>Sh</m></cell>
+              <cell><m>Cts</m></cell>
+            </row>
+            <row>
+              <cell><m>1</m> litre of cooking oil at <m>sh\, 200</m> per litre</cell>
+              <cell><m>200</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row>
+              <cell><m>2\, kg</m> of sugar @ <m>sh\,130</m></cell>
+              <cell><m>260</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row>
+              <cell><m>3</m> packets of milk @ <m>sh\,50</m></cell>
+              <cell><m>150</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row bottom="medium">
+              <cell><m>5</m> matchboxes at <m>sh\,10</m></cell>
+              <cell><m>50</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+            <row bottom="medium">
+              <cell>Total</cell>
+              <cell><m>660</m></cell>
+              <cell><m>00</m></cell>
+            </row>
+          </tabular>
+          <p>
+            b) If he uses <m>sh\,1000</m>
+          </p>
+          <p>
+            <md>
+              <mrow> \text{Balance} =\amp sh\, 1000- sh\, 660 </mrow>
+              <mrow>= \amp sh\,340 </mrow>
+            </md>
+          </p>
+          <p>
+            The balnce he got was <m> {\color{blue} sh\, 340}</m> .
           </p>
         </solution>
 
       </example>
+      <p>
+        Watch the link below for more information about the bill.
+      </p>
+      <p>
+        <url href="https://youtu.be/x8a62xMzN64" />
+      </p>
       
     </subsubsection>
 
@@ -1477,9 +1529,378 @@
 
 
   </subsection>
+  
+  <subsection xml:id="subsec-Postal-charges">
+    <title>Postal charges.</title>
+    <p>
+      These refers to the payments made for the services offered in a post office.
+      In Kenya some of these services include:
+    </p>
+    <p>
+      <ol>
+        <li>
+          <p>
+            Postage of letters and parcels 
+            within the country and abroad.
+          </p>
+        </li>
+        <li>Postage of letters and parcels within the country and abroad.</li>
+        <li>Sending money</li>
+        <li>Banking</li>
+        <li>Rental boxes</li>
+      </ol>
+    </p>
+    <p>
+      This is an example of a post office where the above transactions are done.
+    </p>
+    <sidebyside>
+      <image width="50%">
+      <latex-image>
+        \begin{tikzpicture}
+            % Main post office building
+          \draw[fill=gray!20] (0,0) rectangle (10,6); % Main structure
+
+          % Roof
+          \draw[fill=red!70] (-0.5,6) -- (5,8) -- (10.5,6) -- cycle;
+
+          % Door
+          \draw[fill=brown!50] (4.5,0) rectangle (5.5,2);
+
+          % Windows
+          \foreach \x in {1.5, 7.5} {
+            \draw[fill=blue!30] (\x,3) rectangle (\x+1.5,4.5);
+          }
+
+          % Labels for building sides
+          \node[above] at (5,8) {Roof Side};
+          \node[below] at (5,0) {Front Side};
+          \node[rotate=90, above] at (0,3) {Left Side};
+          \node[rotate=90, above] at (10,3) {Right Side};
+
+          % Ground decoration
+          \draw[thick] (-1,0) -- (11,0);
+
+          % Environment enhancements
+          % Trees on both sides
+          \foreach \x in {-0.8, 10.8} {
+            \draw[fill=green!60] (\x,0) -- (\x-0.5,1) -- (\x+0.5,1) -- cycle;
+            \draw[fill=brown!70] (\x-0.1,0) rectangle (\x+0.1,-0.5);
+          }
+
+          % Post Office Sign
+          \node[draw, fill=yellow!80, text width=3cm, align=center, above] at (5,6.2) {POST OFFICE};
+        \end{tikzpicture}
+      </latex-image>
+      </image>
+
+      <image source="/Post.png" width="50%">
+        <shortdescription>New post office</shortdescription>
+      </image>
+    </sidebyside>
+    <activity>
+      <p>
+        <m> {\color{blue} \text{Work as a class}}</m> 
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              With the help of your teacher, visit a nearby post office.
+            </p>
+          </li>
+          <li>Gather information about the services offered in the post office.</li>
+          <li>Prepare a chart showing the postal charges.</li>
+          <li>Hang the chart in your classroom for doing exercises given in your clas.</li>
+        </ol>
+      </p>
+    </activity>
+    <activity>
+      <p>
+        <m> {\color{blue} \text{Work in groups}}</m> 
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Grade <m>7</m> learners from Myra School visited a 
+              a post office and came up with the table below.
+            </p>
+            <tabular halign="left" top="medium" right="medium" left="medium">
+             <row header="yes" bottom="medium">
+                <cell>Type of article</cell>
+                <cell>Mass limits</cell>
+                <cell><m>Sh</m></cell>
+                <cell><m>Cts</m></cell>
+              </row>
+              <row>
+                <cell>Letters</cell>
+                <cell>Up to <m>20\,g</m></cell>
+                <cell>21</cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>20\,g</m> up to <m>50\,g</m></cell>
+                <cell><m>25</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>50\,g</m> up to <m>100\,g</m></cell>
+                <cell><m>28</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>100\,g</m> up to <m>250\,g</m></cell>
+                <cell><m>42</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>250\,g</m> up to <m>500\,g</m></cell>
+                <cell><m>70</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>500\,g</m> up to <m>1\,kg</m></cell>
+                <cell><m>113</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row>
+                <cell></cell>
+                <cell>Over <m>1\, kg </m> up to <m>2\,kg</m></cell>
+                <cell><m>160</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row bottom="medium">
+                <cell></cell>
+                <cell>Each additional <m>1 \, kg</m> after <m>2\, kg</m></cell>
+                <cell><m>30</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row bottom="medium">
+                <cell>Aerograms</cell>
+                <cell>Single form each</cell>
+                <cell><m>21</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+              <row bottom="medium">
+                <cell>Postcards</cell>
+                <cell>Each</cell>
+                <cell><m>19</m></cell>
+                <cell><m>00</m></cell>
+              </row>
+            </tabular>
+
+          </li>
+          <li>
+            <p>
+              From the above, discuss the cost of sending the following 
+              items.
+            </p>
+            
+            <p>
+              <m>\text{a) A letter weighing} \,18\,g  \qquad \text{b) A letter weighing} \,150\, g    </m>
+            </p>
+            <p><m> \text{c) A letter weighing}\, 800\,g \qquad \text{d) A letter weighing} \,1.5\,kg</m></p>
+            <p><m>\text{e) A letter weighing} \,3\,kg \qquad \text{f) 3 single from aerograms}</m></p>
+            <p><m>\text{g) 2 postcards}</m></p>
+          </li>
+          
+          <li>Share your answers with other learners in class.</li>
+
+        </ol>
+      </p>
+    </activity>
+    <p>
+      <m> {\color{blue} \text{Learning Point}}</m> 
+    </p>
+    <p>
+      Some of the services offered in a post office include <m> {\color{green} \text{sending}}</m> and 
+      <m> {\color{green} \text{receiving letters,parcels and postcards.}}</m> 
+    </p>
+    <p>
+      The tables below will help when solving question under postal charges.
+    </p>
+    <table>
+      <title><m> {\color{blue} \text{Inland postal charges}}</m> </title>
+      <tabular halign="left" top="medium" right="medium" left="medium">
+        <row  header="yes" bottom="medium">
+          <cell>Type of article</cell>
+          <cell>Mass limits</cell>
+          <cell><m>Sh</m></cell>
+          <cell><m>Cts</m></cell>
+        </row>
+        <row>
+          <cell>Letters</cell>
+          <cell>Up to <m>20\,g</m></cell>
+          <cell><m>25</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>20 \,g </m> up to <m>50\,g</m></cell>
+          <cell><m>30</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>50 \,g </m> up to <m>100\,g</m></cell>
+          <cell><m>32</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>100 \,g </m> up to <m>250\,g</m></cell>
+          <cell><m>46</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>250 \,g </m> up to <m>500\,g</m></cell>
+          <cell><m>70</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>500 \,g </m> up to <m>1\,kg</m></cell>
+          <cell><m>114</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Over <m>1 \,kg </m> up to <m>2\,kg</m></cell>
+          <cell><m>123</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Aerograms(single form)</cell>
+          <cell>Each</cell>
+          <cell><m>21</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Literature for the blind</cell>
+          <cell> Free postage</cell>
+          <cell></cell>
+          <cell></cell>
+        </row>
+        <row bottom="medium">
+          <cell>Postcards</cell>
+          <cell>Each</cell>
+          <cell><m>15</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell>Printed papers(limit of mass <m>1\,kg</m>)</cell>
+          <cell>Up to <m>20\,g</m></cell>
+          <cell><m>39</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>20 \,g </m> up to <m>50\,g</m></cell>
+          <cell><m>54</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>50 \,g </m> up to <m>100\,g</m></cell>
+          <cell><m>72</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>100 \,g </m> up to <m>250\,g</m></cell>
+          <cell><m>89</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>250 \,g </m> up to <m>500\,g</m></cell>
+          <cell><m>98</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>Over <m>500 \,g </m> up to <m>1\,kg</m></cell>
+          <cell><m>115</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell>Parcels(limit of mass <m>50\,kg</m>)</cell>
+          <cell>Up to <m>5\,kg</m></cell>
+          <cell><m>50</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>5\,kg</m> up to <m>10\,kg</m></cell>
+          <cell><m>89</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>10\,kg</m> up to <m>15\,kg</m></cell>
+          <cell><m>168</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell>Over <m>15\,kg</m> up to <m>20\,kg</m></cell>
+          <cell><m>246</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+        <row bottom="medium">
+          <cell></cell>
+          <cell>For each additional <m>1\,kg </m> or part thereof up to <m>50\, kg</m></cell>
+          <cell><m>9</m></cell>
+          <cell><m>00</m></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title> <m>{\color{blue} \text{International Postal Charges}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title><m>{\color{blue} \text{International air mail postal charges}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title><m>{\color{blue} \text{Surface airlifted postal charges}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title><m>{\color{blue} \text{Express Mail Service(EMS) international rates}}</m></title>
+      <tabular>
+        <row>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
+
+
+  </subsection>
 
 
    
+
+
 
 
 
