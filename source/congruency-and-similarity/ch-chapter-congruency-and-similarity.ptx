@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-congruency-and-similarity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>CONGRUENCY AND SIMILARITY</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-revision-on-congruency-of-triangles.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-definition-of-similar-figures.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-theorems-on-similar-plane-figures.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-ratio-of-perimeters-of-similar-plane-figures.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-ratio-of-areas-of-similar-plane-figures.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-construction-of-similar-plane-figure.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-applications-of-similarities.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-summary.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-review-exercise.ptx" />
+
+
+
+ 
+
+
+
+
+</chapter>

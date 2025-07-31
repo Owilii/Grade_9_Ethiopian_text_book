@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Grade 7 Mathematics </title>
-    <subtitle>Learner's Book</subtitle>
+    <title>MATHEMATICS </title>
+    <subtitle>STUDENT TEXTBOOK GRADE 9</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -14,7 +14,28 @@
 
 
     <!-- Include chapters -->
-    <xi:include href="measurements/ch-chapter-Measurements.ptx" />
+    <xi:include href="further-on-sets/ch-chapter-further-on-sets.ptx" />
+
+    <xi:include href="the-number-system/ch-chapter-the-number-system.ptx" />
+
+    <xi:include href="solving-equations/ch-chapter-solving-equations.ptx" />
+
+    <xi:include href="solving-inequalities/ch-chapter-solving-inequalities.ptx" />
+
+    <xi:include href="introduction-to-trigonometry/ch-chapter-introduction-to-trigonometry.ptx" />
+
+    <xi:include href="regular-polygons/ch-chapter-regular-polygons.ptx" />
+
+    <xi:include href="congruency-and-similarity/ch-chapter-congruency-and-similarity.ptx" />
+
+    <xi:include href="vectors-in-two-dimensions/ch-chapter-vectors-in-two-dimensions.ptx" />
+
+    <xi:include href="statistics-and-probability/ch-chapter-statistics-and-probability.ptx" />
+
+
+  
+
+    
 
 
 

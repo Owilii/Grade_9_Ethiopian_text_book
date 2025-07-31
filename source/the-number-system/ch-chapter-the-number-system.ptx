@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-further-on-sets" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>FURTHER ON SETS</title>
+
+ <introduction>
+  <p>
+    In this chapter, we will learn about the number system. We will start with natural numbers and integers, then move on to rational numbers, irrational numbers, and finally real numbers. We will also explore the applications of these concepts in real-life situations.
+  </p>
+ </introduction>
+
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-revision-on-natural-numbers-and-integers.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-rational-numbers.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-irrational-numbers.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-real-numbers.ptx" />
+
+
+  
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-application.ptx" />
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-summary.ptx" />
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-review-exercise.ptx" />
+
+
+
+
+ 
+
+
+
+  
+
+
+</chapter>

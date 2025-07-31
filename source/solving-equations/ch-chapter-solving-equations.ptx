@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-solving-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>SOLVING EQUATIONS</title>
+
+ <introduction>
+  <p>
+    This section.
+  </p>
+</introduction>
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-revision-on-linear-equation-in-one-variable.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-systems-of-linear-equations-in-two-variables.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-solving-non-linear-equations.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-applications-of-equations.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-summary.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-review-exercise.ptx" />
+
+
+ 
+
+
+
+
+</chapter>

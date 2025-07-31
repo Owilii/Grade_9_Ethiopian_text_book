@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-introduction-to-trigonometry" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>INTRODUCTION TO TRIGONOMETRY</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-revision-on-right-angled-triangles.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-trigonometric-ratios.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-summary.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-review-exercise.ptx" />
+
+
+
+
+ 
+
+
+
+
+</chapter>

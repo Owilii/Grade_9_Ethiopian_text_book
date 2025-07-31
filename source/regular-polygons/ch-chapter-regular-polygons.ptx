@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-regular-polygons" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>REGULAR POLYGONS</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-sum-of-interior-angles-of-a-convex-polygon.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-sum-of-exterior-angles-of-a-convex-polygon.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-measures-of-each-interior-angle-and-exterior-angle-of-a-regular-polygon.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-properties-of-regular-polygons.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-summary.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-section-review-exercise.ptx" />
+
+
+
+
+ 
+
+
+
+
+</chapter>

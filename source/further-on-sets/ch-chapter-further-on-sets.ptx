@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-the-number-system" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>THE NUMBER SYSTEM</title>
+
+ <introduction>
+  <p>
+    In this chapter, we will explore the concept of sets in mathematics. A set is a collection of distinct objects, considered as an object in its own right. We will discuss the different types of sets, set notation, and operations on sets.
+  </p>
+ </introduction>
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-sets-and-elements.ptx" />
+ 
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-set-description.ptx" />
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-the-notation-of-sets.ptx" />
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-operations-on-sets.ptx" />
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-application.ptx" />
+
+ <!-- include sections -->
+ <xi:include href="sections/sec-section-summary.ptx" />
+
+<!-- include sections -->
+ <xi:include href="sections/sec-section-review-exercise.ptx" />
+
+
+
+
+
+</chapter>
