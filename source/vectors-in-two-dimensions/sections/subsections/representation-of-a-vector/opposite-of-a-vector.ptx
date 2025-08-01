@@ -1,0 +1,6 @@
+<subsection xml:id="subsec-opposite-of-a-vector">
+    <title>Opposite of a vector</title>
+    <p>
+        The opposite of a vector \(\vec{a}\) is denoted by \(-\vec{a}\). It has the same magnitude as \(\vec{a}\) but points in the opposite direction. For example, if \(\vec{a} = (3, 4)\), then \(-\vec{a} = (-3, -4)\).
+    </p>
+</subsection>

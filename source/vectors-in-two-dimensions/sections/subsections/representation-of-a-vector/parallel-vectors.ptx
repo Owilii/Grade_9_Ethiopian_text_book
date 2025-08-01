@@ -1,0 +1,7 @@
+<subsection xml:id="subsec-parallel-vectors">
+    <title>Parallel Vectors</title>
+    <p>
+        Two vectors are said to be parallel if they have the same direction or
+         if one is the opposite of the other. In other words, two vectors \(\vec{a}\) and \(\vec{b}\) are parallel if there exists a scalar \(k\) such that \(\vec{b} = k \vec{a}\).
+    </p>
+</subsection>

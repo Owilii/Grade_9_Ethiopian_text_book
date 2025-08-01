@@ -1,8 +1,17 @@
 <section xml:id="sec-section-representation-of-a-vector" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representation of a Vector</title>
-  <p>
-    
-  </p>
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+
+  <xi:include href="subsections/representation-of-a-vector/equality-of-vectors.ptx" />
+
+  <xi:include href="subsections/representation-of-a-vector/opposite-of-a-vector.ptx" />
+
+  <xi:include href="subsections/representation-of-a-vector/parallel-vectors.ptx" />
 
 
  

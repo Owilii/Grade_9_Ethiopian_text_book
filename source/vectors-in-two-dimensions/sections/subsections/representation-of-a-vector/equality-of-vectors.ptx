@@ -1,0 +1,7 @@
+<subsection xml:id="subsec-equality-of-vectors">
+    <title>Equality of vectors</title>
+    <p>
+        Two vectors are said to be equal if they have the same magnitude and direction. 
+        In other words, if vector **A** has the same length and points in the same direction as vector **B**, then **A** is equal to **B**.
+    </p>
+</subsection>
