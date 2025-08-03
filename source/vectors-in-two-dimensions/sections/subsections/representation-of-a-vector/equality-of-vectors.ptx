@@ -58,4 +58,13 @@
             </image>
         </figure>
     </sidebyside>
+
+    <exercises xml:id="exercises-identical-vectors">
+        <exercise>
+            <stack source="questions/Identical-vectors.xml" />
+        </exercise>
+        <exercise>
+            <stack source="questions/Identical-vectors-2.xml" />
+        </exercise>
+    </exercises>
 </subsection>

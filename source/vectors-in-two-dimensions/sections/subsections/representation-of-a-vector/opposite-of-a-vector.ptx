@@ -46,7 +46,7 @@
 
                 % Draw axes
                 \draw[red,thick,-&gt;] (-1,0) -- (8,0) node[right,black] {\large $x$};
-                \draw[red,thick,-&gt;] (0,-2) -- (0,8) node[above,black] {\large $y$};
+                \draw[red,thick,-&gt;] (0,-1) -- (0,8) node[above,black] {\large $y$};
 
 
                 % Define points
@@ -58,7 +58,7 @@
                 \coordinate (D) at (2,1);
 
                 \draw [-{Latex[scale=2]}] (A) -- (B) ;
-                \draw [-{Latex[scale=2]},red] (D) -- (C) ;
+                \draw [-{Latex[scale=2]},red] (C) -- (D) ;
 
                 % Draw vectors
                 \draw[thick] (A) -- (B) node[right] {B};
@@ -68,7 +68,14 @@
     </image>
     </sidebyside>
     </figure>
-    
-   
+
+    <exercises xml:id="exercises-opposite-vectors">
+        <exercise>
+            <stack source="questions/Opposite-vectors.xml" />
+        </exercise>
+        <exercise>
+            <stack source="questions/Opposite-vectors-2.xml" />
+        </exercise>
+    </exercises>
     
 </subsection>
