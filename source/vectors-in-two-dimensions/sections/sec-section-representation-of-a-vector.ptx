@@ -6,19 +6,19 @@
       plane. This is called a vector on a plane.
     </p>
     <p>
-      <m>\text{How do we represent a vector?}</m>
+      <q>How do we represent a vector?</q>
     </p>
     <sidebyside>
       
       <p>
         A vector can be represented by either algebraically or geometrically. A vector is
-        represented geometrically by a <m>{\color{red} \text{directed line segment}}</m>
+        represented geometrically by a <em>directed line segment</em>
         segment (a line segment with direction).
         <me> </me>
         In <xref ref="representation-of-vect"/> the vector is represented by a
         directed line segment and we denote this by an
         arrow as <m>\overrightarrow{AB}</m> . In this case, the point <m>A</m> is called
-        the <m>{\color{red} \textit{initial}}</m> and the point <m>B</m> is called the <m>{\color{red} \textit{terminal}}</m>.
+        the <term>initial</term> and the point <m>B</m> is called the <term>terminal</term>.
 
       </p>
       <figure xml:id="representation-of-vect">

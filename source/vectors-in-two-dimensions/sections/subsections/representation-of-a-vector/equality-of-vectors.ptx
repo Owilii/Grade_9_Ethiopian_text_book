@@ -2,7 +2,7 @@
     <title>Equality of vectors</title>
     <sidebyside>
         <p>
-            Two vectors are said to be <m>{\color{red}\text{equal}}</m> if and only if they have
+            Two vectors are said to be <term>equal</term> if and only if they have
             the same magnitude and direction.<me></me>
 
             In <xref ref="equality-of-vectors"/> the two vectors have the same magnitude
@@ -59,12 +59,11 @@
         </figure>
     </sidebyside>
 
-    <exercises xml:id="exercises-identical-vectors">
-        <exercise>
-            <stack source="questions/Identical-vectors.xml" />
-        </exercise>
-        <exercise>
-            <stack source="questions/Identical-vectors-2.xml" />
-        </exercise>
-    </exercises>
+    <exercise>
+        <stack source="questions/Identical-vectors.xml" />
+    </exercise>
+    <exercise>
+        <stack source="questions/Identical-vectors-2.xml" />
+    </exercise>
+
 </subsection>

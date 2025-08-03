@@ -2,7 +2,7 @@
     <title>Opposite of a vector</title>
     
     <p>
-        The vector which has the same magnitude as that of a vector <m>\overrightarrow{AB},</m> but opposite in direction is called <m>{\color{red}\text{opposite vector of }}</m> <m>\overrightarrow{AB}</m> and is denoted by <m>-\overrightarrow{AB}.</m> 
+        The vector which has the same magnitude as that of a vector <m>\overrightarrow{AB},</m> but opposite in direction is called <term>opposite vector of</term> <m>\overrightarrow{AB}</m> and is denoted by <m>-\overrightarrow{AB}.</m> 
         From <xref ref="opposite-vector-1"/>, you can observe that one vector is the negative of the other. Thus, <m>a = -(-a)</m> as shown in the first part of <xref ref="opposite-vector-1"/> and <m>\overrightarrow{AB} = -\overrightarrow{CD}</m> 
         as shown in the second part of <xref ref="opposite-vector-1"/>.
     </p>
@@ -69,13 +69,11 @@
     </sidebyside>
     </figure>
 
-    <exercises xml:id="exercises-opposite-vectors">
-        <exercise>
-            <stack source="questions/Opposite-vectors.xml" />
-        </exercise>
-        <exercise>
-            <stack source="questions/Opposite-vectors-2.xml" />
-        </exercise>
-    </exercises>
+    <exercise>
+        <stack source="questions/Opposite-vectors.xml" />
+    </exercise>
+    <exercise>
+        <stack source="questions/Opposite-vectors-2.xml" />
+    </exercise>
     
 </subsection>

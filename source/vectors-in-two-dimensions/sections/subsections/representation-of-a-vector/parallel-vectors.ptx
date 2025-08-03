@@ -1,7 +1,7 @@
 <subsection xml:id="subsec-parallel-vectors">
     <title>Parallel Vectors</title>
     <p>
-        Vectors that have the same or opposite direction are called <m>{\color{red}\text{parallel vectors.}}</m>
+        Vectors that have the same or opposite direction are called <term>parallel vectors.</term>
     </p>
     <example>
         <statement>
@@ -112,7 +112,7 @@
                             <m>\overrightarrow{PO}</m> and <m>\overrightarrow{PQ}</m> are in opposite directions but on the same line, so they are parallel.
                         </p>
                         <p>
-                            Vectors <m>\overrightarrow{GH}</m> and <m>\overrightarrow{GM}</m> are also parallel since they are <m>{\color{red}\text{vectors}}</m> in the same direction.
+                            Vectors <m>\overrightarrow{GH}</m> and <m>\overrightarrow{GM}</m> are also parallel since they are <em>vectors</em> in the same direction.
                         </p>
                         <p>
                             There is no vector which is opposite of another in the given figure. <m>\overrightarrow{GH} = \overrightarrow{HM}</m> since they have the same direction and 
@@ -123,12 +123,49 @@
             </p>
         </solution>
     </example>
-    <exercises xml:id="exercises-parallel-vectors">
+
+    <exercise>
+        <stack source="questions/Parallel-vectors.xml" />
+    </exercise>
+    <exercise>
+        <stack source="questions/Parallel-vectors-2.xml" />
+    </exercise>
+
+
+    <exercises xml:id="exercises-parallel-vectors">        
         <exercise>
-            <stack source="questions/Parallel-vectors.xml" />
-        </exercise>
+            <statement>
+                <p> 
+                    In <xref ref="parallel-vectors-exercise"/>, identify the following with reference to <m>\mathbf{a}</m>.
+                </p>
+                <figure xml:id="parallel-vectors-exercise">
+                    <caption>Vectors of different directions and magnitudes</caption>
+                    <image source="/parallel-vectors.png" />
+                </figure>
+                <p>
+                    <ol>
+                    <li>Equal vector to <m>\overrightarrow{a}\ </m></li>
+                    <li>Opposite to <m>\overrightarrow{a}</m></li>
+                    <li>Parallel to <m>\overrightarrow{a}</m></li>
+                    </ol>
+                </p>
+            </statement>
+        </exercise> 
+
         <exercise>
-            <stack source="questions/Parallel-vectors-2.xml" />
-        </exercise>
+            <statement>
+                <p> 
+                    Write true if the statement is correct and false otherwise.
+                </p>
+                <p>
+                    <ol>
+                        <li>Two parallel vectors may have common point.</li>
+                        <li>Parallel vectors have the same magnitude.</li>
+                        <li>The magnitude of a vector does not depend on its direction.</li>
+                    </ol>
+                </p>
+            </statement>             
+        </exercise> 
     </exercises>
+
 </subsection>
