@@ -439,7 +439,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.2",
   "title": "Representation of a Vector",
-  "body": " Representation of a Vector   In this sub unit, we consider the vector represented by a directed line segment on a plane. This is called a vector on a plane.      A vector can be represented by either algebraically or geometrically. A vector is represented geometrically by a segment (a line segment with direction). In the vector is represented by a directed line segment and we denote this by an arrow as . In this case, the point is called the and the point is called the .         A vector also represented by using letters with an arrow bar over it such as , , or can also be a bold small letters like , , etc. Hence, the above vector represented by .    Equality of vectors   Two vectors are said to be if and only if they have the same magnitude and direction. In the two vectors have the same magnitude (length) and the same direction. Hence, they are equal vectors. In this case we can write this as , or .           Opposite of a vector  The vector which has the same magnitude as that of a vector but opposite in direction is called  and is denoted by From , you can observe that one vector is the negative of the other. Thus, as shown in the first part of and as shown in the second part of .               Parallel Vectors  Vectors that have the same or opposite direction are called     Identify parallel, equal and opposite vectors from below.                               and are in the same direction, is in opposite direction to and   Hence, these vectors and are parallel to each other.  There is no equal and opposite of a vector in the given figure.     and are in opposite directions but on the same line, so they are parallel.  Vectors and are also parallel since they are in the same direction.  There is no vector which is opposite of another in the given figure. since they have the same direction and equal length( use a ruler to check equality of length).              "
+  "body": " Representation of a Vector   In this sub unit, we consider the vector represented by a directed line segment on a plane. This is called a vector on a plane.   How do we represent a vector?    A vector can be represented by either algebraically or geometrically. A vector is represented geometrically by a directed line segment segment (a line segment with direction). In the vector is represented by a directed line segment and we denote this by an arrow as . In this case, the point is called the initial and the point is called the terminal .         A vector also represented by using letters with an arrow bar over it such as , , or can also be a bold small letters like , , etc. Hence, the above vector represented by .    Equality of vectors   Two vectors are said to be equal if and only if they have the same magnitude and direction. In the two vectors have the same magnitude (length) and the same direction. Hence, they are equal vectors. In this case we can write this as , or .                 Opposite of a vector  The vector which has the same magnitude as that of a vector but opposite in direction is called opposite vector of  and is denoted by From , you can observe that one vector is the negative of the other. Thus, as shown in the first part of and as shown in the second part of .                     Parallel Vectors  Vectors that have the same or opposite direction are called parallel vectors.     Identify parallel, equal and opposite vectors from below.                               and are in the same direction, is in opposite direction to and   Hence, these vectors and are parallel to each other.  There is no equal and opposite of a vector in the given figure.     and are in opposite directions but on the same line, so they are parallel.  Vectors and are also parallel since they are vectors in the same direction.  There is no vector which is opposite of another in the given figure. since they have the same direction and equal length( use a ruler to check equality of length).                In , identify the following with reference to .   Vectors of different directions and magnitudes      Equal vector to  Opposite to  Parallel to        Write true if the statement is correct and false otherwise.    Two parallel vectors may have common point.  Parallel vectors have the same magnitude.  The magnitude of a vector does not depend on its direction.        "
+},
+{
+  "id": "sec-section-representation-of-a-vector-2-3-1",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#sec-section-representation-of-a-vector-2-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "initial terminal "
 },
 {
   "id": "representation-of-vect",
@@ -451,6 +460,15 @@ var ptx_lunr_docs = [
   "body": "     "
 },
 {
+  "id": "subsec-equality-of-vectors-2-1",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-equality-of-vectors-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "equal "
+},
+{
   "id": "equality-of-vectors",
   "level": "2",
   "url": "sec-section-representation-of-a-vector.html#equality-of-vectors",
@@ -460,22 +478,94 @@ var ptx_lunr_docs = [
   "body": "     "
 },
 {
+  "id": "subsec-equality-of-vectors-3",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-equality-of-vectors-3",
+  "type": "Checkpoint",
+  "number": "8.2.3",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "subsec-equality-of-vectors-4",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-equality-of-vectors-4",
+  "type": "Checkpoint",
+  "number": "8.2.4",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "subsec-opposite-of-a-vector-2",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-opposite-of-a-vector-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "opposite vector of "
+},
+{
   "id": "opposite-vector-1",
   "level": "2",
   "url": "sec-section-representation-of-a-vector.html#opposite-vector-1",
   "type": "Figure",
-  "number": "8.2.3",
+  "number": "8.2.5",
   "title": "",
   "body": "          "
+},
+{
+  "id": "subsec-opposite-of-a-vector-4",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-opposite-of-a-vector-4",
+  "type": "Checkpoint",
+  "number": "8.2.6",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "subsec-opposite-of-a-vector-5",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-opposite-of-a-vector-5",
+  "type": "Checkpoint",
+  "number": "8.2.7",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "subsec-parallel-vectors-2",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-parallel-vectors-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "parallel vectors. "
 },
 {
   "id": "subsec-parallel-vectors-3",
   "level": "2",
   "url": "sec-section-representation-of-a-vector.html#subsec-parallel-vectors-3",
   "type": "Example",
-  "number": "8.2.4",
+  "number": "8.2.8",
   "title": "",
-  "body": "  Identify parallel, equal and opposite vectors from below.                               and are in the same direction, is in opposite direction to and   Hence, these vectors and are parallel to each other.  There is no equal and opposite of a vector in the given figure.     and are in opposite directions but on the same line, so they are parallel.  Vectors and are also parallel since they are in the same direction.  There is no vector which is opposite of another in the given figure. since they have the same direction and equal length( use a ruler to check equality of length).      "
+  "body": "  Identify parallel, equal and opposite vectors from below.                               and are in the same direction, is in opposite direction to and   Hence, these vectors and are parallel to each other.  There is no equal and opposite of a vector in the given figure.     and are in opposite directions but on the same line, so they are parallel.  Vectors and are also parallel since they are vectors in the same direction.  There is no vector which is opposite of another in the given figure. since they have the same direction and equal length( use a ruler to check equality of length).      "
+},
+{
+  "id": "subsec-parallel-vectors-4",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-parallel-vectors-4",
+  "type": "Checkpoint",
+  "number": "8.2.10",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "subsec-parallel-vectors-5",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#subsec-parallel-vectors-5",
+  "type": "Checkpoint",
+  "number": "8.2.11",
+  "title": "",
+  "body": "  "
 },
 {
   "id": "exercises-parallel-vectors-1",
@@ -484,7 +574,16 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.2.3.1",
   "title": "",
-  "body": "   "
+  "body": "  In , identify the following with reference to .   Vectors of different directions and magnitudes      Equal vector to  Opposite to  Parallel to     "
+},
+{
+  "id": "exercises-parallel-vectors-2",
+  "level": "2",
+  "url": "sec-section-representation-of-a-vector.html#exercises-parallel-vectors-2",
+  "type": "Exercise",
+  "number": "8.2.3.2",
+  "title": "",
+  "body": "  Write true if the statement is correct and false otherwise.    Two parallel vectors may have common point.  Parallel vectors have the same magnitude.  The magnitude of a vector does not depend on its direction.     "
 },
 {
   "id": "sec-section-vector-operations",
